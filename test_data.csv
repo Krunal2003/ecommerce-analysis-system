@@ -1,0 +1,13 @@
+date,product_name,category,quantity_sold,unit_price,revenue,region
+2024-01-15,Wireless Headphones,Electronics,45,79.99,3599.55,North
+2024-01-15,Phone Case,Accessories,120,14.99,1798.80,South
+2024-01-16,Laptop Stand,Electronics,30,49.99,1499.70,East
+2024-01-16,USB Cable,Accessories,200,9.99,1998.00,West
+2024-01-17,Wireless Headphones,Electronics,52,79.99,4159.48,North
+2024-01-17,Bluetooth Speaker,Electronics,35,59.99,2099.65,South
+2024-01-18,Phone Case,Accessories,95,14.99,1424.05,East
+2024-01-18,Laptop Stand,Electronics,28,49.99,1399.72,West
+2024-01-19,USB Cable,Accessories,180,9.99,1798.20,North
+2024-01-19,Wireless Headphones,Electronics,60,79.99,4799.40,South
+2024-01-20,Bluetooth Speaker,Electronics,40,59.99,2399.60,East
+2024-01-20,Phone Case,Accessories,110,14.99,1648.90,West
