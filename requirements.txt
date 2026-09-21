@@ -1,0 +1,29 @@
+# Web Framework
+fastapi
+uvicorn
+
+# Data Processing
+pandas
+numpy
+openpyxl
+pyarrow
+
+# Validation & Serialization
+pydantic
+pydantic-settings
+
+# Analysis & Visualization
+scikit-learn
+statsmodels
+plotly
+
+# LLM
+groq
+
+# Database (Optional, for Option 3)
+sqlalchemy
+psycopg2-binary
+
+# Utilities
+python-dotenv
+python-multipart

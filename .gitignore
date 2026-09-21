@@ -1,0 +1,9 @@
+venv/
+.env
+__pycache__/
+*.pyc
+datasets/uploads/
+datasets/processed/
+node_modules/
+frontend/build/
+.DS_Store
