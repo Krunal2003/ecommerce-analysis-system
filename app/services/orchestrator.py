@@ -13,7 +13,7 @@ class GroqOrchestrator:
 
     def __init__(self, api_key: str):
         self.client = Groq(api_key=api_key)
-        self.model = "mixtral-8x7b-32768"
+        self.model = "qwen/qwen3.8-27b"
 
     async def analyze(self, question: str, dataset_id: str) -> Dict[str, Any]:
         # Gather real data context
@@ -67,7 +67,10 @@ Provide:
 3. Actionable recommendations (at least 3)
 4. Any concerns or caveats"""
 
-        messages = [{"role": "user", "content": user_message}]
+        messages = [
+            {"role": "system", "content": system},
+            {"role": "user", "content": user_message},
+        ]
 
         max_iterations = 3
         findings = ""
@@ -75,8 +78,7 @@ Provide:
             response = self.client.chat.completions.create(
                 model=self.model,
                 max_tokens=1500,
-                messages=messages,
-                system=system
+                messages=messages
             )
 
             assistant_message = response.choices[0].message.content
