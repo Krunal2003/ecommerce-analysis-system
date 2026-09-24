@@ -1,13 +1,2275 @@
-date,product_name,category,quantity_sold,unit_price,revenue,region
-2024-01-15,Wireless Headphones,Electronics,45,79.99,3599.55,North
-2024-01-15,Phone Case,Accessories,120,14.99,1798.80,South
-2024-01-16,Laptop Stand,Electronics,30,49.99,1499.70,East
-2024-01-16,USB Cable,Accessories,200,9.99,1998.00,West
-2024-01-17,Wireless Headphones,Electronics,52,79.99,4159.48,North
-2024-01-17,Bluetooth Speaker,Electronics,35,59.99,2099.65,South
-2024-01-18,Phone Case,Accessories,95,14.99,1424.05,East
-2024-01-18,Laptop Stand,Electronics,28,49.99,1399.72,West
-2024-01-19,USB Cable,Accessories,180,9.99,1798.20,North
-2024-01-19,Wireless Headphones,Electronics,60,79.99,4799.40,South
-2024-01-20,Bluetooth Speaker,Electronics,40,59.99,2399.60,East
-2024-01-20,Phone Case,Accessories,110,14.99,1648.90,West
+date,product_name,category,quantity_sold,price,revenue,region
+2025-01-01,Wireless Headphones,Electronics,15,83.7,1255.5,East
+2025-01-01,Laptop Stand,Office,6,41.65,249.9,North
+2025-01-01,Wireless Mouse,Electronics,18,28.26,508.68,North
+2025-01-01,Power Bank,Electronics,12,34.51,414.12,North
+2025-01-01,Desk Lamp,Office,4,23.95,95.8,South
+2025-01-01,Webcam,Electronics,6,56.39,338.34,South
+2025-01-01,Keyboard,Electronics,3,71.5,214.5,North
+2025-01-02,Wireless Headphones,Electronics,15,84.92,1273.8,South
+2025-01-02,USB-C Cable,Accessories,26,12.01,312.26,South
+2025-01-02,Laptop Stand,Office,4,41.29,165.16,South
+2025-01-02,Wireless Mouse,Electronics,14,28.1,393.4,West
+2025-01-02,Screen Protector,Accessories,45,10.78,485.1,East
+2025-01-02,Power Bank,Electronics,7,32.86,230.02,North
+2025-01-02,Desk Lamp,Office,6,23.85,143.1,West
+2025-01-02,Webcam,Electronics,3,60.5,181.5,North
+2025-01-02,Keyboard,Electronics,3,76.81,230.43,East
+2025-01-03,Phone Case,Accessories,25,20.91,522.75,East
+2025-01-03,Bluetooth Speaker,Electronics,5,53.62,268.1,East
+2025-01-03,Laptop Stand,Office,3,38.48,115.44,South
+2025-01-03,Wireless Mouse,Electronics,15,32.31,484.65,South
+2025-01-03,Power Bank,Electronics,15,35.42,531.3,East
+2025-01-03,Desk Lamp,Office,7,24.63,172.41,North
+2025-01-03,Notebook Set,Office,14,15.02,210.28,West
+2025-01-04,Phone Case,Accessories,26,18.91,491.66,North
+2025-01-04,Laptop Stand,Office,7,41.06,287.42,West
+2025-01-04,Wireless Mouse,Electronics,9,32.34,291.06,South
+2025-01-04,Screen Protector,Accessories,43,9.63,414.09,North
+2025-01-04,Desk Lamp,Office,9,26.79,241.11,North
+2025-01-04,Webcam,Electronics,4,56.66,226.64,North
+2025-01-04,Keyboard,Electronics,9,67.52,607.68,South
+2025-01-04,Notebook Set,Office,15,16.4,246.0,West
+2025-01-05,Phone Case,Accessories,16,19.13,306.08,North
+2025-01-05,USB-C Cable,Accessories,28,11.82,330.96,North
+2025-01-05,Bluetooth Speaker,Electronics,6,46.44,278.64,South
+2025-01-05,Laptop Stand,Office,4,41.37,165.48,East
+2025-01-05,Screen Protector,Accessories,27,10.25,276.75,East
+2025-01-05,Power Bank,Electronics,7,37.34,261.38,South
+2025-01-05,Keyboard,Electronics,7,63.22,442.54,South
+2025-01-06,Wireless Headphones,Electronics,7,83.04,581.28,South
+2025-01-06,Phone Case,Accessories,13,19.35,251.55,North
+2025-01-06,USB-C Cable,Accessories,38,12.36,469.68,East
+2025-01-06,Bluetooth Speaker,Electronics,8,50.29,402.32,North
+2025-01-06,Wireless Mouse,Electronics,19,30.79,585.01,South
+2025-01-06,Screen Protector,Accessories,38,10.78,409.64,West
+2025-01-06,Power Bank,Electronics,14,32.08,449.12,North
+2025-01-06,Desk Lamp,Office,7,22.54,157.78,North
+2025-01-06,Webcam,Electronics,2,55.92,111.84,South
+2025-01-06,Keyboard,Electronics,7,66.13,462.91,East
+2025-01-07,Wireless Headphones,Electronics,13,82.38,1070.94,West
+2025-01-07,Phone Case,Accessories,22,18.37,404.14,South
+2025-01-07,Laptop Stand,Office,5,43.13,215.65,East
+2025-01-07,Wireless Mouse,Electronics,14,30.45,426.3,South
+2025-01-07,Power Bank,Electronics,9,31.66,284.94,East
+2025-01-07,Webcam,Electronics,7,64.97,454.79,South
+2025-01-07,Notebook Set,Office,16,16.39,262.24,West
+2025-01-08,Wireless Headphones,Electronics,8,78.15,625.2,West
+2025-01-08,Phone Case,Accessories,14,20.22,283.08,West
+2025-01-08,USB-C Cable,Accessories,29,11.94,346.26,East
+2025-01-08,Bluetooth Speaker,Electronics,5,50.17,250.85,West
+2025-01-08,Laptop Stand,Office,6,41.61,249.66,South
+2025-01-08,Screen Protector,Accessories,41,10.72,439.52,West
+2025-01-08,Power Bank,Electronics,12,37.08,444.96,East
+2025-01-08,Desk Lamp,Office,9,26.94,242.46,South
+2025-01-08,Webcam,Electronics,2,60.93,121.86,North
+2025-01-08,Keyboard,Electronics,6,67.0,402.0,East
+2025-01-09,Phone Case,Accessories,18,18.5,333.0,South
+2025-01-09,USB-C Cable,Accessories,19,13.31,252.89,North
+2025-01-09,Laptop Stand,Office,5,41.09,205.45,East
+2025-01-09,Wireless Mouse,Electronics,14,28.93,405.02,East
+2025-01-09,Power Bank,Electronics,7,31.67,221.69,West
+2025-01-09,Desk Lamp,Office,8,24.53,196.24,North
+2025-01-09,Notebook Set,Office,210,15.47,3248.7,North
+2025-01-10,Wireless Headphones,Electronics,13,80.86,1051.18,East
+2025-01-10,Phone Case,Accessories,15,19.41,291.15,East
+2025-01-10,Screen Protector,Accessories,37,9.94,367.78,North
+2025-01-10,Power Bank,Electronics,12,32.7,392.4,South
+2025-01-10,Desk Lamp,Office,7,25.67,179.69,North
+2025-01-10,Webcam,Electronics,5,60.03,300.15,West
+2025-01-10,Keyboard,Electronics,4,63.98,255.92,East
+2025-01-11,Wireless Headphones,Electronics,15,81.2,1218.0,South
+2025-01-11,Phone Case,Accessories,20,20.17,403.4,West
+2025-01-11,USB-C Cable,Accessories,40,14.04,561.6,North
+2025-01-11,Power Bank,Electronics,7,33.72,236.04,West
+2025-01-11,Webcam,Electronics,3,55.41,166.23,East
+2025-01-11,Keyboard,Electronics,8,73.28,586.24,West
+2025-01-12,Phone Case,Accessories,27,21.95,592.65,South
+2025-01-12,USB-C Cable,Accessories,35,12.58,440.3,West
+2025-01-12,Bluetooth Speaker,Electronics,7,52.5,367.5,East
+2025-01-12,Wireless Mouse,Electronics,14,31.95,447.3,South
+2025-01-12,Screen Protector,Accessories,28,9.01,252.28,West
+2025-01-12,Desk Lamp,Office,10,27.24,272.4,East
+2025-01-12,Webcam,Electronics,4,57.51,230.04,South
+2025-01-12,Keyboard,Electronics,7,74.07,518.49,East
+2025-01-13,Wireless Headphones,Electronics,5,80.78,403.9,South
+2025-01-13,Phone Case,Accessories,17,18.46,313.82,North
+2025-01-13,USB-C Cable,Accessories,31,11.95,370.45,North
+2025-01-13,Bluetooth Speaker,Electronics,4,53.21,212.84,East
+2025-01-13,Screen Protector,Accessories,27,9.73,262.71,West
+2025-01-13,Power Bank,Electronics,18,36.76,661.68,South
+2025-01-13,Webcam,Electronics,5,59.08,295.4,West
+2025-01-13,Notebook Set,Office,8,14.9,119.2,North
+2025-01-14,USB-C Cable,Accessories,34,13.21,449.14,West
+2025-01-14,Bluetooth Speaker,Electronics,6,53.68,322.08,North
+2025-01-14,Laptop Stand,Office,2,43.75,87.5,North
+2025-01-14,Wireless Mouse,Electronics,14,32.95,461.3,North
+2025-01-14,Screen Protector,Accessories,46,10.04,461.84,East
+2025-01-14,Power Bank,Electronics,12,35.88,430.56,East
+2025-01-14,Desk Lamp,Office,3,23.9,71.7,West
+2025-01-14,Webcam,Electronics,4,61.43,245.72,North
+2025-01-14,Notebook Set,Office,14,15.24,213.36,North
+2025-01-15,Wireless Headphones,Electronics,15,83.16,1247.4,South
+2025-01-15,Phone Case,Accessories,27,20.73,559.71,North
+2025-01-15,USB-C Cable,Accessories,36,14.16,509.76,East
+2025-01-15,Bluetooth Speaker,Electronics,7,54.32,380.24,West
+2025-01-15,Screen Protector,Accessories,41,10.96,449.36,North
+2025-01-15,Power Bank,Electronics,11,38.28,421.08,West
+2025-01-15,Desk Lamp,Office,6,24.56,147.36,North
+2025-01-15,Keyboard,Electronics,8,76.99,615.92,West
+2025-01-15,Notebook Set,Office,22,16.32,359.04,West
+2025-01-16,Phone Case,Accessories,13,21.81,283.53,East
+2025-01-16,Bluetooth Speaker,Electronics,9,48.57,437.13,North
+2025-01-16,Laptop Stand,Office,5,42.17,210.85,South
+2025-01-16,Wireless Mouse,Electronics,14,30.36,425.04,West
+2025-01-16,Screen Protector,Accessories,19,9.05,171.95,East
+2025-01-16,Power Bank,Electronics,15,32.98,494.7,North
+2025-01-16,Webcam,Electronics,5,58.7,293.5,South
+2025-01-16,Keyboard,Electronics,5,70.19,350.95,East
+2025-01-16,Notebook Set,Office,19,16.08,305.52,West
+2025-01-17,Phone Case,Accessories,20,19.02,380.4,South
+2025-01-17,USB-C Cable,Accessories,27,12.55,338.85,East
+2025-01-17,Webcam,Electronics,3,58.14,174.42,West
+2025-01-17,Keyboard,Electronics,7,65.4,457.8,North
+2025-01-18,Wireless Mouse,Electronics,9,29.18,262.62,South
+2025-01-18,Screen Protector,Accessories,16,10.59,169.44,East
+2025-01-18,Desk Lamp,Office,9,22.8,205.2,North
+2025-01-18,Webcam,Electronics,5,56.2,281.0,North
+2025-01-18,Keyboard,Electronics,6,71.65,429.9,South
+2025-01-18,Notebook Set,Office,21,13.6,285.6,North
+2025-01-19,Wireless Headphones,Electronics,14,80.18,1122.52,South
+2025-01-19,USB-C Cable,Accessories,28,12.32,344.96,North
+2025-01-19,Bluetooth Speaker,Electronics,4,48.21,192.84,North
+2025-01-19,Laptop Stand,Office,3,43.11,129.33,East
+2025-01-19,Wireless Mouse,Electronics,18,29.98,539.64,North
+2025-01-19,Screen Protector,Accessories,34,10.48,356.32,South
+2025-01-19,Webcam,Electronics,5,60.84,304.2,South
+2025-01-19,Keyboard,Electronics,6,66.31,397.86,North
+2025-01-20,Wireless Mouse,Electronics,8,30.14,241.12,South
+2025-01-20,Screen Protector,Accessories,19,9.79,186.01,West
+2025-01-20,Power Bank,Electronics,16,33.3,532.8,North
+2025-01-20,Desk Lamp,Office,10,25.27,252.7,East
+2025-01-20,Keyboard,Electronics,4,67.52,270.08,South
+2025-01-20,Notebook Set,Office,12,13.84,166.08,East
+2025-01-21,Phone Case,Accessories,13,19.91,258.83,South
+2025-01-21,Bluetooth Speaker,Electronics,5,45.62,228.1,West
+2025-01-21,Laptop Stand,Office,7,38.03,266.21,East
+2025-01-21,Wireless Mouse,Electronics,15,29.82,447.3,South
+2025-01-21,Screen Protector,Accessories,45,10.65,479.25,West
+2025-01-21,Desk Lamp,Office,10,23.4,234.0,North
+2025-01-21,Webcam,Electronics,5,64.09,320.45,North
+2025-01-21,Keyboard,Electronics,4,65.28,261.12,North
+2025-01-21,Notebook Set,Office,20,15.06,301.2,South
+2025-01-22,Wireless Headphones,Electronics,9,85.05,765.45,South
+2025-01-22,Phone Case,Accessories,20,19.2,384.0,East
+2025-01-22,USB-C Cable,Accessories,20,14.03,280.6,South
+2025-01-22,Bluetooth Speaker,Electronics,11,51.23,563.53,North
+2025-01-22,Laptop Stand,Office,6,38.67,232.02,North
+2025-01-22,Wireless Mouse,Electronics,15,30.19,452.85,West
+2025-01-22,Screen Protector,Accessories,20,9.61,192.2,North
+2025-01-22,Power Bank,Electronics,6,35.48,212.88,East
+2025-01-22,Desk Lamp,Office,5,26.6,133.0,North
+2025-01-22,Webcam,Electronics,2,58.76,117.52,East
+2025-01-23,Wireless Headphones,Electronics,13,82.25,1069.25,East
+2025-01-23,Phone Case,Accessories,15,19.37,290.55,North
+2025-01-23,USB-C Cable,Accessories,30,12.73,381.9,South
+2025-01-23,Bluetooth Speaker,Electronics,5,50.85,254.25,South
+2025-01-23,Laptop Stand,Office,2,42.97,85.94,West
+2025-01-23,Wireless Mouse,Electronics,16,32.52,520.32,East
+2025-01-23,Power Bank,Electronics,13,34.46,447.98,East
+2025-01-23,Desk Lamp,Office,9,24.74,222.66,North
+2025-01-23,Webcam,Electronics,6,55.49,332.94,West
+2025-01-23,Keyboard,Electronics,6,71.27,427.62,South
+2025-01-24,Wireless Headphones,Electronics,13,72.07,936.91,South
+2025-01-24,Phone Case,Accessories,21,21.67,455.07,South
+2025-01-24,USB-C Cable,Accessories,34,12.87,437.58,North
+2025-01-24,Bluetooth Speaker,Electronics,5,46.75,233.75,South
+2025-01-24,Laptop Stand,Office,7,38.89,272.23,East
+2025-01-24,Wireless Mouse,Electronics,7,30.97,216.79,North
+2025-01-24,Screen Protector,Accessories,20,9.82,196.4,North
+2025-01-24,Power Bank,Electronics,12,35.66,427.92,North
+2025-01-24,Desk Lamp,Office,4,26.98,107.92,North
+2025-01-24,Notebook Set,Office,18,13.69,246.42,East
+2025-01-25,Wireless Headphones,Electronics,11,79.04,869.44,South
+2025-01-25,Phone Case,Accessories,13,18.72,243.36,West
+2025-01-25,USB-C Cable,Accessories,24,12.39,297.36,East
+2025-01-25,Bluetooth Speaker,Electronics,4,46.55,186.2,East
+2025-01-25,Laptop Stand,Office,2,37.77,75.54,North
+2025-01-25,Wireless Mouse,Electronics,7,27.62,193.34,East
+2025-01-25,Power Bank,Electronics,9,32.19,289.71,North
+2025-01-25,Desk Lamp,Office,9,26.64,239.76,South
+2025-01-25,Webcam,Electronics,3,57.51,172.53,West
+2025-01-26,Bluetooth Speaker,Electronics,7,53.92,377.44,West
+2025-01-26,Laptop Stand,Office,4,39.03,156.12,East
+2025-01-26,Screen Protector,Accessories,28,10.09,282.52,South
+2025-01-26,Desk Lamp,Office,8,23.19,185.52,West
+2025-01-26,Webcam,Electronics,6,63.59,381.54,South
+2025-01-27,Wireless Headphones,Electronics,12,76.12,913.44,North
+2025-01-27,Phone Case,Accessories,31,20.09,622.79,North
+2025-01-27,Laptop Stand,Office,3,40.6,121.8,North
+2025-01-27,Wireless Mouse,Electronics,16,31.97,511.52,North
+2025-01-27,Desk Lamp,Office,9,25.48,229.32,East
+2025-01-27,Webcam,Electronics,3,64.96,194.88,South
+2025-01-27,Keyboard,Electronics,6,63.65,381.9,North
+2025-01-27,Notebook Set,Office,10,15.3,153.0,North
+2025-01-28,Wireless Headphones,Electronics,8,77.68,621.44,East
+2025-01-28,USB-C Cable,Accessories,26,13.42,348.92,West
+2025-01-28,Bluetooth Speaker,Electronics,6,45.3,271.8,North
+2025-01-28,Laptop Stand,Office,3,39.96,119.88,East
+2025-01-28,Wireless Mouse,Electronics,17,27.63,469.71,North
+2025-01-28,Screen Protector,Accessories,31,10.37,321.47,South
+2025-01-28,Desk Lamp,Office,9,25.96,233.64,North
+2025-01-28,Webcam,Electronics,3,55.09,165.27,West
+2025-01-28,Notebook Set,Office,16,14.05,224.8,South
+2025-01-29,Wireless Headphones,Electronics,13,84.89,1103.57,East
+2025-01-29,Phone Case,Accessories,28,18.99,531.72,South
+2025-01-29,Bluetooth Speaker,Electronics,12,45.39,544.68,East
+2025-01-29,Laptop Stand,Office,3,40.53,121.59,West
+2025-01-29,Screen Protector,Accessories,25,10.84,271.0,West
+2025-01-29,Power Bank,Electronics,12,37.52,450.24,West
+2025-01-29,Desk Lamp,Office,9,22.68,204.12,East
+2025-01-30,Wireless Headphones,Electronics,9,83.59,752.31,North
+2025-01-30,Phone Case,Accessories,21,21.15,444.15,South
+2025-01-30,USB-C Cable,Accessories,38,13.29,505.02,North
+2025-01-30,Laptop Stand,Office,2,42.99,85.98,South
+2025-01-30,Wireless Mouse,Electronics,18,32.98,593.64,South
+2025-01-30,Screen Protector,Accessories,28,9.95,278.6,East
+2025-01-30,Power Bank,Electronics,18,36.87,663.66,South
+2025-01-30,Desk Lamp,Office,8,23.68,189.44,North
+2025-01-30,Webcam,Electronics,3,57.55,172.65,North
+2025-01-31,Wireless Headphones,Electronics,10,78.14,781.4,East
+2025-01-31,USB-C Cable,Accessories,35,11.92,417.2,South
+2025-01-31,Bluetooth Speaker,Electronics,12,49.66,595.92,East
+2025-01-31,Wireless Mouse,Electronics,10,32.65,326.5,East
+2025-01-31,Screen Protector,Accessories,31,9.45,292.95,North
+2025-01-31,Webcam,Electronics,3,54.68,164.04,West
+2025-01-31,Keyboard,Electronics,8,76.92,615.36,North
+2025-01-31,Notebook Set,Office,22,15.58,342.76,North
+2025-02-01,Wireless Headphones,Electronics,7,75.57,528.99,South
+2025-02-01,Phone Case,Accessories,22,18.36,403.92,West
+2025-02-01,Laptop Stand,Office,8,42.89,343.12,West
+2025-02-01,Wireless Mouse,Electronics,14,27.51,385.14,South
+2025-02-01,Screen Protector,Accessories,23,10.44,240.12,South
+2025-02-01,Webcam,Electronics,2,64.2,128.4,South
+2025-02-01,Keyboard,Electronics,6,74.53,447.18,South
+2025-02-01,Notebook Set,Office,18,14.29,257.22,West
+2025-02-02,Wireless Headphones,Electronics,12,85.6,1027.2,West
+2025-02-02,Phone Case,Accessories,28,20.78,581.84,East
+2025-02-02,USB-C Cable,Accessories,34,12.1,411.4,West
+2025-02-02,Bluetooth Speaker,Electronics,4,53.25,213.0,North
+2025-02-02,Laptop Stand,Office,6,37.28,223.68,West
+2025-02-02,Wireless Mouse,Electronics,14,27.03,378.42,North
+2025-02-02,Screen Protector,Accessories,46,10.25,471.5,North
+2025-02-02,Power Bank,Electronics,13,36.95,480.35,North
+2025-02-02,Desk Lamp,Office,7,27.3,191.1,South
+2025-02-02,Webcam,Electronics,6,55.22,331.32,West
+2025-02-02,Keyboard,Electronics,3,67.2,201.6,East
+2025-02-03,Wireless Headphones,Electronics,9,81.92,737.28,North
+2025-02-03,Phone Case,Accessories,30,21.86,655.8,East
+2025-02-03,Bluetooth Speaker,Electronics,4,45.21,180.84,South
+2025-02-03,Laptop Stand,Office,7,41.46,290.22,South
+2025-02-03,Screen Protector,Accessories,29,9.89,286.81,North
+2025-02-03,Power Bank,Electronics,15,33.04,495.6,North
+2025-02-03,Desk Lamp,Office,8,23.86,190.88,West
+2025-02-03,Keyboard,Electronics,9,68.87,619.83,East
+2025-02-03,Notebook Set,Office,13,16.44,213.72,South
+2025-02-04,Wireless Headphones,Electronics,7,75.4,527.8,North
+2025-02-04,Phone Case,Accessories,18,21.45,386.1,South
+2025-02-04,USB-C Cable,Accessories,18,13.95,251.1,East
+2025-02-04,Bluetooth Speaker,Electronics,11,52.6,578.6,East
+2025-02-04,Screen Protector,Accessories,35,10.58,370.3,South
+2025-02-04,Webcam,Electronics,4,56.4,225.6,South
+2025-02-04,Notebook Set,Office,13,15.88,206.44,South
+2025-02-05,Wireless Headphones,Electronics,5,73.15,365.75,South
+2025-02-05,Phone Case,Accessories,23,19.16,440.68,East
+2025-02-05,USB-C Cable,Accessories,35,11.79,412.65,South
+2025-02-05,Wireless Mouse,Electronics,8,29.98,239.84,East
+2025-02-05,Screen Protector,Accessories,33,9.01,297.33,South
+2025-02-05,Power Bank,Electronics,7,33.94,237.58,North
+2025-02-05,Webcam,Electronics,2,60.8,121.6,East
+2025-02-05,Keyboard,Electronics,4,65.34,261.36,North
+2025-02-05,Notebook Set,Office,21,13.59,285.39,West
+2025-02-06,Phone Case,Accessories,25,21.47,536.75,East
+2025-02-06,USB-C Cable,Accessories,23,13.81,317.63,North
+2025-02-06,Bluetooth Speaker,Electronics,8,53.16,425.28,South
+2025-02-06,Laptop Stand,Office,5,41.84,209.2,North
+2025-02-06,Desk Lamp,Office,5,27.37,136.85,South
+2025-02-06,Keyboard,Electronics,7,69.96,489.72,East
+2025-02-06,Notebook Set,Office,12,16.48,197.76,West
+2025-02-07,Wireless Headphones,Electronics,7,82.87,580.09,North
+2025-02-07,Bluetooth Speaker,Electronics,11,52.26,574.86,East
+2025-02-07,Laptop Stand,Office,4,38.96,155.84,West
+2025-02-07,Screen Protector,Accessories,33,9.87,325.71,East
+2025-02-07,Power Bank,Electronics,17,37.79,642.43,South
+2025-02-07,Webcam,Electronics,6,56.52,339.12,East
+2025-02-07,Keyboard,Electronics,7,64.83,453.81,East
+2025-02-07,Notebook Set,Office,11,14.2,156.2,West
+2025-02-08,Phone Case,Accessories,20,18.98,379.6,West
+2025-02-08,USB-C Cable,Accessories,27,12.62,340.74,East
+2025-02-08,Laptop Stand,Office,8,38.06,304.48,East
+2025-02-08,Wireless Mouse,Electronics,17,27.78,472.26,West
+2025-02-08,Screen Protector,Accessories,23,9.14,210.22,North
+2025-02-08,Power Bank,Electronics,10,37.29,372.9,South
+2025-02-08,Webcam,Electronics,5,56.0,280.0,North
+2025-02-08,Notebook Set,Office,20,14.91,298.2,West
+2025-02-09,Wireless Headphones,Electronics,11,85.88,944.68,North
+2025-02-09,Laptop Stand,Office,8,36.31,290.48,North
+2025-02-09,Wireless Mouse,Electronics,20,28.89,577.8,South
+2025-02-09,Desk Lamp,Office,10,22.52,225.2,West
+2025-02-09,Webcam,Electronics,6,59.45,356.7,South
+2025-02-09,Keyboard,Electronics,7,64.95,454.65,North
+2025-02-09,Notebook Set,Office,21,14.1,296.1,East
+2025-02-10,Wireless Headphones,Electronics,6,82.75,496.5,South
+2025-02-10,Phone Case,Accessories,14,20.76,290.64,West
+2025-02-10,USB-C Cable,Accessories,32,12.98,415.36,East
+2025-02-10,Bluetooth Speaker,Electronics,8,45.29,362.32,West
+2025-02-10,Laptop Stand,Office,6,37.72,226.32,East
+2025-02-10,Wireless Mouse,Electronics,16,27.63,442.08,East
+2025-02-10,Screen Protector,Accessories,17,10.94,185.98,South
+2025-02-10,Power Bank,Electronics,16,35.46,567.36,East
+2025-02-10,Desk Lamp,Office,6,24.13,144.78,East
+2025-02-10,Webcam,Electronics,5,63.56,317.8,South
+2025-02-10,Keyboard,Electronics,3,70.61,211.83,North
+2025-02-10,Notebook Set,Office,15,14.68,220.2,East
+2025-02-11,Wireless Headphones,Electronics,10,75.79,757.9,South
+2025-02-11,Bluetooth Speaker,Electronics,9,51.18,460.62,South
+2025-02-11,Laptop Stand,Office,7,40.14,280.98,South
+2025-02-11,Screen Protector,Accessories,27,9.79,264.33,East
+2025-02-11,Power Bank,Electronics,13,36.84,478.92,West
+2025-02-11,Desk Lamp,Office,10,22.58,225.8,North
+2025-02-11,Keyboard,Electronics,8,66.4,531.2,West
+2025-02-12,Wireless Headphones,Electronics,9,73.61,662.49,South
+2025-02-12,Bluetooth Speaker,Electronics,10,50.38,503.8,South
+2025-02-12,Laptop Stand,Office,6,38.17,229.02,South
+2025-02-12,Power Bank,Electronics,8,35.17,281.36,East
+2025-02-12,Webcam,Electronics,3,65.54,196.62,South
+2025-02-12,Keyboard,Electronics,6,63.6,381.6,East
+2025-02-12,Notebook Set,Office,19,15.95,303.05,West
+2025-02-13,USB-C Cable,Accessories,24,13.87,332.88,West
+2025-02-13,Bluetooth Speaker,Electronics,6,52.79,316.74,North
+2025-02-13,Laptop Stand,Office,5,41.33,206.65,North
+2025-02-13,Wireless Mouse,Electronics,13,30.51,396.63,North
+2025-02-13,Screen Protector,Accessories,42,9.42,395.64,North
+2025-02-13,Desk Lamp,Office,7,25.22,176.54,North
+2025-02-13,Webcam,Electronics,4,59.95,239.8,West
+2025-02-13,Notebook Set,Office,15,14.77,221.55,East
+2025-02-14,Wireless Headphones,Electronics,16,74.05,1184.8,North
+2025-02-14,Phone Case,Accessories,22,19.09,419.98,North
+2025-02-14,Bluetooth Speaker,Electronics,5,48.22,241.1,North
+2025-02-14,Laptop Stand,Office,3,40.14,120.42,North
+2025-02-14,Wireless Mouse,Electronics,10,30.23,302.3,West
+2025-02-14,Screen Protector,Accessories,32,9.64,308.48,South
+2025-02-14,Power Bank,Electronics,18,36.12,650.16,East
+2025-02-14,Desk Lamp,Office,6,22.79,136.74,East
+2025-02-14,Webcam,Electronics,3,62.27,186.81,North
+2025-02-14,Keyboard,Electronics,3,69.3,207.9,East
+2025-02-14,Notebook Set,Office,20,15.88,317.6,West
+2025-02-15,Phone Case,Accessories,13,21.96,285.48,West
+2025-02-15,USB-C Cable,Accessories,36,13.04,469.44,East
+2025-02-15,Laptop Stand,Office,3,42.6,127.8,East
+2025-02-15,Wireless Mouse,Electronics,7,28.81,201.67,North
+2025-02-15,Screen Protector,Accessories,18,10.86,195.48,East
+2025-02-15,Power Bank,Electronics,11,34.62,380.82,East
+2025-02-15,Desk Lamp,Office,9,24.97,224.73,West
+2025-02-15,Webcam,Electronics,3,65.16,195.48,North
+2025-02-15,Keyboard,Electronics,5,75.28,376.4,West
+2025-02-15,Notebook Set,Office,22,14.4,316.8,North
+2025-02-16,Wireless Headphones,Electronics,7,83.11,581.77,South
+2025-02-16,Phone Case,Accessories,23,21.28,489.44,North
+2025-02-16,USB-C Cable,Accessories,38,12.96,492.48,East
+2025-02-16,Bluetooth Speaker,Electronics,5,50.02,250.1,South
+2025-02-16,Wireless Mouse,Electronics,7,27.15,190.05,North
+2025-02-16,Screen Protector,Accessories,33,10.92,360.36,South
+2025-02-16,Power Bank,Electronics,12,34.57,414.84,North
+2025-02-16,Desk Lamp,Office,5,25.59,127.95,East
+2025-02-16,Notebook Set,Office,16,13.67,218.72,West
+2025-02-17,Phone Case,Accessories,31,18.95,587.45,North
+2025-02-17,Bluetooth Speaker,Electronics,5,51.91,259.55,North
+2025-02-17,Laptop Stand,Office,8,42.5,340.0,East
+2025-02-17,Wireless Mouse,Electronics,15,30.15,452.25,South
+2025-02-17,Power Bank,Electronics,11,32.85,361.35,South
+2025-02-17,Desk Lamp,Office,9,26.16,235.44,East
+2025-02-17,Keyboard,Electronics,6,63.26,379.56,North
+2025-02-17,Notebook Set,Office,11,15.1,166.1,North
+2025-02-18,USB-C Cable,Accessories,35,14.18,496.3,South
+2025-02-18,Laptop Stand,Office,5,42.74,213.7,North
+2025-02-18,Wireless Mouse,Electronics,9,28.94,260.46,East
+2025-02-18,Screen Protector,Accessories,27,9.78,264.06,South
+2025-02-18,Power Bank,Electronics,17,38.18,649.06,East
+2025-02-18,Desk Lamp,Office,8,24.68,197.44,North
+2025-02-18,Webcam,Electronics,2,64.81,129.62,South
+2025-02-18,Keyboard,Electronics,7,75.52,528.64,East
+2025-02-18,Notebook Set,Office,9,15.05,135.45,North
+2025-02-19,Wireless Headphones,Electronics,11,82.87,911.57,North
+2025-02-19,USB-C Cable,Accessories,15,11.88,178.2,North
+2025-02-19,Bluetooth Speaker,Electronics,10,48.52,485.2,North
+2025-02-19,Laptop Stand,Office,7,41.28,288.96,North
+2025-02-19,Power Bank,Electronics,15,33.35,500.25,North
+2025-02-19,Webcam,Electronics,3,63.22,189.66,East
+2025-02-19,Keyboard,Electronics,4,64.69,258.76,East
+2025-02-19,Notebook Set,Office,20,15.08,301.6,North
+2025-02-20,Wireless Headphones,Electronics,14,76.68,1073.52,West
+2025-02-20,Phone Case,Accessories,22,20.98,461.56,West
+2025-02-20,USB-C Cable,Accessories,17,12.57,213.69,West
+2025-02-20,Laptop Stand,Office,5,39.51,197.55,East
+2025-02-20,Wireless Mouse,Electronics,10,27.72,277.2,North
+2025-02-20,Screen Protector,Accessories,36,9.56,344.16,West
+2025-02-20,Power Bank,Electronics,16,37.92,606.72,North
+2025-02-20,Desk Lamp,Office,6,26.7,160.2,East
+2025-02-20,Webcam,Electronics,5,56.12,280.6,South
+2025-02-20,Keyboard,Electronics,9,63.6,572.4,North
+2025-02-21,Wireless Headphones,Electronics,14,75.41,1055.74,South
+2025-02-21,Phone Case,Accessories,25,20.16,504.0,East
+2025-02-21,USB-C Cable,Accessories,21,13.16,276.36,East
+2025-02-21,Bluetooth Speaker,Electronics,9,52.6,473.4,North
+2025-02-21,Laptop Stand,Office,2,37.96,75.92,East
+2025-02-21,Wireless Mouse,Electronics,8,29.4,235.2,West
+2025-02-21,Power Bank,Electronics,15,35.8,537.0,North
+2025-02-21,Desk Lamp,Office,8,25.26,202.08,North
+2025-02-21,Webcam,Electronics,2,62.94,125.88,North
+2025-02-21,Keyboard,Electronics,5,67.57,337.85,North
+2025-02-21,Notebook Set,Office,24,16.48,395.52,South
+2025-02-22,Wireless Headphones,Electronics,13,86.17,1120.21,East
+2025-02-22,Phone Case,Accessories,19,20.77,394.63,North
+2025-02-22,USB-C Cable,Accessories,23,13.75,316.25,North
+2025-02-22,Bluetooth Speaker,Electronics,8,51.41,411.28,North
+2025-02-22,Laptop Stand,Office,5,40.48,202.4,East
+2025-02-22,Wireless Mouse,Electronics,18,28.61,514.98,West
+2025-02-22,Screen Protector,Accessories,18,9.11,163.98,South
+2025-02-22,Power Bank,Electronics,15,37.01,555.15,South
+2025-02-22,Desk Lamp,Office,4,24.13,96.52,South
+2025-02-22,Notebook Set,Office,21,16.48,346.08,West
+2025-02-23,Wireless Headphones,Electronics,10,82.17,821.7,East
+2025-02-23,USB-C Cable,Accessories,36,12.69,456.84,East
+2025-02-23,Bluetooth Speaker,Electronics,5,48.61,243.05,South
+2025-02-23,Screen Protector,Accessories,24,10.03,240.72,North
+2025-02-23,Power Bank,Electronics,9,34.5,310.5,West
+2025-02-23,Desk Lamp,Office,4,26.5,106.0,South
+2025-02-23,Webcam,Electronics,2,54.96,109.92,East
+2025-02-23,Keyboard,Electronics,5,73.2,366.0,East
+2025-02-24,Wireless Headphones,Electronics,7,84.01,588.07,East
+2025-02-24,Phone Case,Accessories,11,18.22,200.42,North
+2025-02-24,Laptop Stand,Office,4,38.17,152.68,East
+2025-02-24,Wireless Mouse,Electronics,17,27.38,465.46,South
+2025-02-24,Desk Lamp,Office,4,25.15,100.6,South
+2025-02-24,Webcam,Electronics,6,54.25,325.5,East
+2025-02-24,Keyboard,Electronics,6,76.1,456.6,North
+2025-02-24,Notebook Set,Office,13,15.68,203.84,West
+2025-02-25,Phone Case,Accessories,14,20.25,283.5,South
+2025-02-25,USB-C Cable,Accessories,30,12.6,378.0,North
+2025-02-25,Screen Protector,Accessories,33,10.04,331.32,North
+2025-02-25,Power Bank,Electronics,15,31.96,479.4,East
+2025-02-25,Desk Lamp,Office,4,24.78,99.12,South
+2025-02-25,Keyboard,Electronics,8,72.36,578.88,South
+2025-02-25,Notebook Set,Office,20,15.13,302.6,North
+2025-02-26,Wireless Headphones,Electronics,14,79.34,1110.76,North
+2025-02-26,Phone Case,Accessories,14,19.02,266.28,North
+2025-02-26,USB-C Cable,Accessories,34,13.04,443.36,North
+2025-02-26,Bluetooth Speaker,Electronics,11,53.7,590.7,North
+2025-02-26,Laptop Stand,Office,8,42.17,337.36,North
+2025-02-26,Screen Protector,Accessories,44,10.07,443.08,South
+2025-02-26,Desk Lamp,Office,9,24.39,219.51,East
+2025-02-26,Webcam,Electronics,3,60.27,180.81,North
+2025-02-26,Keyboard,Electronics,6,71.87,431.22,East
+2025-02-26,Notebook Set,Office,24,15.09,362.16,North
+2025-02-27,Wireless Headphones,Electronics,14,77.06,1078.84,West
+2025-02-27,Phone Case,Accessories,16,21.92,350.72,North
+2025-02-27,Laptop Stand,Office,6,37.21,223.26,South
+2025-02-27,Wireless Mouse,Electronics,8,32.28,258.24,West
+2025-02-27,Screen Protector,Accessories,46,9.83,452.18,West
+2025-02-27,Power Bank,Electronics,14,32.65,457.1,West
+2025-02-27,Desk Lamp,Office,4,22.55,90.2,East
+2025-02-27,Webcam,Electronics,5,64.67,323.35,North
+2025-02-27,Keyboard,Electronics,4,75.0,300.0,West
+2025-02-27,Notebook Set,Office,21,14.43,303.03,South
+2025-02-28,Wireless Headphones,Electronics,10,77.72,777.2,South
+2025-02-28,Phone Case,Accessories,17,18.69,317.73,East
+2025-02-28,USB-C Cable,Accessories,16,12.31,196.96,North
+2025-02-28,Bluetooth Speaker,Electronics,7,52.48,367.36,East
+2025-02-28,Laptop Stand,Office,4,42.72,170.88,South
+2025-02-28,Wireless Mouse,Electronics,15,27.75,416.25,East
+2025-02-28,Screen Protector,Accessories,37,9.13,337.81,North
+2025-02-28,Power Bank,Electronics,9,37.35,336.15,North
+2025-02-28,Desk Lamp,Office,8,25.05,200.4,South
+2025-02-28,Notebook Set,Office,20,16.3,326.0,West
+2025-03-01,Wireless Headphones,Electronics,20,82.63,1652.6,North
+2025-03-01,Phone Case,Accessories,35,20.23,708.05,North
+2025-03-01,USB-C Cable,Accessories,37,13.94,515.78,South
+2025-03-01,Bluetooth Speaker,Electronics,17,46.1,783.7,South
+2025-03-01,Wireless Mouse,Electronics,28,28.67,802.76,West
+2025-03-01,Power Bank,Electronics,22,37.12,816.64,North
+2025-03-01,Desk Lamp,Office,12,24.01,288.12,West
+2025-03-01,Keyboard,Electronics,5,72.84,364.2,South
+2025-03-02,USB-C Cable,Accessories,31,13.25,410.75,North
+2025-03-02,Laptop Stand,Office,4,43.21,172.84,West
+2025-03-02,Wireless Mouse,Electronics,21,32.34,679.14,North
+2025-03-02,Desk Lamp,Office,5,25.4,127.0,West
+2025-03-02,Webcam,Electronics,6,54.75,328.5,West
+2025-03-02,Keyboard,Electronics,5,64.3,321.5,West
+2025-03-02,Notebook Set,Office,33,16.13,532.29,East
+2025-03-03,Wireless Headphones,Electronics,14,77.06,1078.84,South
+2025-03-03,Phone Case,Accessories,33,21.56,711.48,South
+2025-03-03,USB-C Cable,Accessories,43,13.23,568.89,East
+2025-03-03,Laptop Stand,Office,4,39.07,156.28,South
+2025-03-03,Wireless Mouse,Electronics,29,30.59,887.11,East
+2025-03-03,Screen Protector,Accessories,51,9.13,465.63,North
+2025-03-03,Power Bank,Electronics,17,31.81,540.77,North
+2025-03-03,Webcam,Electronics,5,59.77,298.85,North
+2025-03-03,Keyboard,Electronics,7,65.89,461.23,South
+2025-03-04,Laptop Stand,Office,10,40.57,405.7,South
+2025-03-04,Screen Protector,Accessories,40,9.17,366.8,East
+2025-03-04,Desk Lamp,Office,10,26.86,268.6,South
+2025-03-04,Webcam,Electronics,9,55.57,500.13,North
+2025-03-04,Keyboard,Electronics,8,68.74,549.92,West
+2025-03-04,Notebook Set,Office,27,14.42,389.34,West
+2025-03-05,Wireless Headphones,Electronics,21,72.02,1512.42,East
+2025-03-05,Laptop Stand,Office,9,36.91,332.19,South
+2025-03-05,Wireless Mouse,Electronics,17,27.72,471.24,South
+2025-03-05,Screen Protector,Accessories,25,9.15,228.75,South
+2025-03-05,Power Bank,Electronics,21,36.24,761.04,South
+2025-03-05,Desk Lamp,Office,5,25.67,128.35,West
+2025-03-05,Webcam,Electronics,8,62.68,501.44,North
+2025-03-05,Keyboard,Electronics,5,70.47,352.35,North
+2025-03-06,Wireless Headphones,Electronics,12,79.77,957.24,East
+2025-03-06,Bluetooth Speaker,Electronics,10,52.28,522.8,East
+2025-03-06,Laptop Stand,Office,9,39.43,354.87,East
+2025-03-06,Screen Protector,Accessories,58,9.88,573.04,East
+2025-03-06,Power Bank,Electronics,24,37.91,909.84,South
+2025-03-06,Desk Lamp,Office,10,24.35,243.5,East
+2025-03-06,Webcam,Electronics,7,58.48,409.36,North
+2025-03-06,Keyboard,Electronics,5,75.45,377.25,South
+2025-03-07,Phone Case,Accessories,34,19.35,657.9,North
+2025-03-07,USB-C Cable,Accessories,31,13.45,416.95,East
+2025-03-07,Bluetooth Speaker,Electronics,8,54.87,438.96,South
+2025-03-07,Laptop Stand,Office,5,39.87,199.35,North
+2025-03-07,Wireless Mouse,Electronics,29,29.3,849.7,North
+2025-03-07,Power Bank,Electronics,11,31.65,348.15,East
+2025-03-07,Desk Lamp,Office,7,26.99,188.93,North
+2025-03-07,Webcam,Electronics,4,64.65,258.6,East
+2025-03-07,Keyboard,Electronics,13,67.03,871.39,West
+2025-03-07,Notebook Set,Office,22,14.51,319.22,South
+2025-03-08,Phone Case,Accessories,31,21.04,652.24,West
+2025-03-08,USB-C Cable,Accessories,31,12.36,383.16,North
+2025-03-08,Laptop Stand,Office,6,43.72,262.32,East
+2025-03-08,Wireless Mouse,Electronics,21,27.83,584.43,South
+2025-03-08,Screen Protector,Accessories,44,9.79,430.76,West
+2025-03-08,Power Bank,Electronics,20,35.48,709.6,East
+2025-03-08,Webcam,Electronics,3,59.7,179.1,South
+2025-03-08,Notebook Set,Office,35,15.66,548.1,South
+2025-03-09,Wireless Headphones,Electronics,10,84.64,846.4,North
+2025-03-09,Phone Case,Accessories,23,21.5,494.5,West
+2025-03-09,Bluetooth Speaker,Electronics,17,49.82,846.94,West
+2025-03-09,Laptop Stand,Office,7,38.28,267.96,North
+2025-03-09,Wireless Mouse,Electronics,17,30.06,511.02,South
+2025-03-09,Screen Protector,Accessories,61,10.95,667.95,South
+2025-03-09,Power Bank,Electronics,22,35.5,781.0,West
+2025-03-09,Keyboard,Electronics,8,74.85,598.8,West
+2025-03-10,Wireless Headphones,Electronics,15,80.16,1202.4,East
+2025-03-10,Phone Case,Accessories,15,19.9,298.5,East
+2025-03-10,USB-C Cable,Accessories,46,12.04,553.84,North
+2025-03-10,Bluetooth Speaker,Electronics,15,47.78,716.7,North
+2025-03-10,Laptop Stand,Office,4,43.97,175.88,East
+2025-03-10,Wireless Mouse,Electronics,15,27.08,406.2,East
+2025-03-10,Screen Protector,Accessories,55,9.28,510.4,East
+2025-03-10,Power Bank,Electronics,20,36.85,737.0,West
+2025-03-10,Desk Lamp,Office,5,24.93,124.65,North
+2025-03-10,Webcam,Electronics,5,54.78,273.9,South
+2025-03-10,Notebook Set,Office,36,13.71,493.56,West
+2025-03-11,Wireless Headphones,Electronics,12,73.22,878.64,South
+2025-03-11,Phone Case,Accessories,36,18.19,654.84,North
+2025-03-11,USB-C Cable,Accessories,30,12.29,368.7,North
+2025-03-11,Bluetooth Speaker,Electronics,17,49.04,833.68,West
+2025-03-11,Laptop Stand,Office,7,37.8,264.6,East
+2025-03-11,Wireless Mouse,Electronics,22,29.14,641.08,East
+2025-03-11,Power Bank,Electronics,18,34.64,623.52,East
+2025-03-11,Desk Lamp,Office,5,25.9,129.5,North
+2025-03-11,Webcam,Electronics,7,63.64,445.48,East
+2025-03-11,Keyboard,Electronics,5,73.84,369.2,North
+2025-03-11,Notebook Set,Office,19,13.89,263.91,East
+2025-03-12,Phone Case,Accessories,24,17.99,431.76,South
+2025-03-12,Laptop Stand,Office,4,42.7,170.8,North
+2025-03-12,Screen Protector,Accessories,36,9.19,330.84,South
+2025-03-12,Desk Lamp,Office,8,26.43,211.44,West
+2025-03-12,Webcam,Electronics,8,58.52,468.16,West
+2025-03-12,Notebook Set,Office,24,14.65,351.6,East
+2025-03-13,Wireless Headphones,Electronics,8,74.66,597.28,East
+2025-03-13,Phone Case,Accessories,43,21.03,904.29,West
+2025-03-13,USB-C Cable,Accessories,30,11.96,358.8,East
+2025-03-13,Bluetooth Speaker,Electronics,6,48.59,291.54,West
+2025-03-13,Laptop Stand,Office,7,39.65,277.55,North
+2025-03-13,Wireless Mouse,Electronics,17,27.31,464.27,East
+2025-03-13,Screen Protector,Accessories,59,10.69,630.71,North
+2025-03-13,Power Bank,Electronics,17,37.65,640.05,North
+2025-03-13,Desk Lamp,Office,11,23.97,263.67,North
+2025-03-13,Webcam,Electronics,7,57.78,404.46,East
+2025-03-13,Keyboard,Electronics,10,65.78,657.8,West
+2025-03-14,Wireless Headphones,Electronics,8,73.77,590.16,South
+2025-03-14,USB-C Cable,Accessories,19,12.68,240.92,South
+2025-03-14,Wireless Mouse,Electronics,19,29.42,558.98,South
+2025-03-14,Screen Protector,Accessories,22,9.92,218.24,West
+2025-03-14,Power Bank,Electronics,21,33.67,707.07,East
+2025-03-14,Desk Lamp,Office,10,27.37,273.7,North
+2025-03-14,Keyboard,Electronics,11,64.67,711.37,North
+2025-03-15,Phone Case,Accessories,30,19.38,581.4,South
+2025-03-15,Laptop Stand,Office,11,42.77,470.47,North
+2025-03-15,Wireless Mouse,Electronics,25,31.67,791.75,South
+2025-03-15,Screen Protector,Accessories,36,9.12,328.32,North
+2025-03-15,Desk Lamp,Office,12,24.86,298.32,North
+2025-03-15,Webcam,Electronics,8,63.41,507.28,West
+2025-03-15,Keyboard,Electronics,13,64.05,832.65,South
+2025-03-16,USB-C Cable,Accessories,49,13.19,646.31,North
+2025-03-16,Bluetooth Speaker,Electronics,13,48.87,635.31,East
+2025-03-16,Wireless Mouse,Electronics,28,28.73,804.44,South
+2025-03-16,Screen Protector,Accessories,54,9.12,492.48,North
+2025-03-16,Desk Lamp,Office,9,23.16,208.44,West
+2025-03-16,Webcam,Electronics,4,60.0,240.0,East
+2025-03-17,Wireless Headphones,Electronics,15,80.74,1211.1,South
+2025-03-17,Bluetooth Speaker,Electronics,8,45.49,363.92,West
+2025-03-17,Laptop Stand,Office,10,42.82,428.2,North
+2025-03-17,Wireless Mouse,Electronics,13,32.7,425.1,West
+2025-03-17,Screen Protector,Accessories,66,10.13,668.58,North
+2025-03-17,Power Bank,Electronics,19,32.0,608.0,East
+2025-03-17,Desk Lamp,Office,6,26.45,158.7,West
+2025-03-17,Webcam,Electronics,8,60.25,482.0,West
+2025-03-17,Keyboard,Electronics,5,69.67,348.35,East
+2025-03-18,Wireless Headphones,Electronics,18,74.59,1342.62,East
+2025-03-18,Phone Case,Accessories,29,18.04,523.16,North
+2025-03-18,USB-C Cable,Accessories,54,12.29,663.66,East
+2025-03-18,Laptop Stand,Office,10,41.82,418.2,North
+2025-03-18,Wireless Mouse,Electronics,10,29.88,298.8,East
+2025-03-18,Desk Lamp,Office,14,27.46,384.44,North
+2025-03-18,Webcam,Electronics,5,58.7,293.5,East
+2025-03-18,Keyboard,Electronics,13,71.07,923.91,South
+2025-03-18,Notebook Set,Office,18,15.18,273.24,South
+2025-03-19,Wireless Headphones,Electronics,11,75.06,825.66,West
+2025-03-19,USB-C Cable,Accessories,27,11.79,318.33,North
+2025-03-19,Laptop Stand,Office,6,43.59,261.54,East
+2025-03-19,Wireless Mouse,Electronics,21,30.09,631.89,East
+2025-03-19,Power Bank,Electronics,25,38.11,952.75,West
+2025-03-19,Desk Lamp,Office,12,24.87,298.44,South
+2025-03-19,Keyboard,Electronics,6,67.63,405.78,West
+2025-03-20,USB-C Cable,Accessories,38,12.75,484.5,West
+2025-03-20,Bluetooth Speaker,Electronics,9,51.93,467.37,East
+2025-03-20,Laptop Stand,Office,5,43.0,215.0,South
+2025-03-20,Screen Protector,Accessories,24,9.25,222.0,East
+2025-03-20,Desk Lamp,Office,10,22.76,227.6,West
+2025-03-20,Keyboard,Electronics,7,66.22,463.54,North
+2025-03-20,Notebook Set,Office,36,14.16,509.76,East
+2025-03-21,Wireless Headphones,Electronics,21,78.75,1653.75,South
+2025-03-21,Phone Case,Accessories,36,21.26,765.36,North
+2025-03-21,USB-C Cable,Accessories,53,13.79,730.87,West
+2025-03-21,Bluetooth Speaker,Electronics,10,50.9,509.0,East
+2025-03-21,Wireless Mouse,Electronics,24,27.99,671.76,East
+2025-03-21,Screen Protector,Accessories,65,9.08,590.2,North
+2025-03-21,Power Bank,Electronics,14,36.49,510.86,East
+2025-03-21,Webcam,Electronics,5,58.42,292.1,West
+2025-03-21,Keyboard,Electronics,10,72.99,729.9,South
+2025-03-21,Notebook Set,Office,29,15.68,454.72,West
+2025-03-22,Phone Case,Accessories,20,19.37,387.4,South
+2025-03-22,USB-C Cable,Accessories,52,13.51,702.52,East
+2025-03-22,Bluetooth Speaker,Electronics,17,49.95,849.15,South
+2025-03-22,Wireless Mouse,Electronics,24,29.3,703.2,North
+2025-03-22,Screen Protector,Accessories,23,10.4,239.2,West
+2025-03-22,Power Bank,Electronics,13,36.42,473.46,West
+2025-03-22,Desk Lamp,Office,14,22.75,318.5,South
+2025-03-22,Webcam,Electronics,8,56.14,449.12,West
+2025-03-22,Keyboard,Electronics,8,64.83,518.64,West
+2025-03-23,Wireless Headphones,Electronics,12,85.93,1031.16,East
+2025-03-23,Phone Case,Accessories,22,20.49,450.78,East
+2025-03-23,USB-C Cable,Accessories,53,11.72,621.16,East
+2025-03-23,Laptop Stand,Office,6,38.44,230.64,South
+2025-03-23,Wireless Mouse,Electronics,16,31.39,502.24,South
+2025-03-23,Power Bank,Electronics,14,34.52,483.28,East
+2025-03-23,Desk Lamp,Office,5,24.36,121.8,West
+2025-03-23,Webcam,Electronics,6,61.58,369.48,North
+2025-03-23,Keyboard,Electronics,11,64.41,708.51,North
+2025-03-24,Wireless Headphones,Electronics,24,73.07,1753.68,South
+2025-03-24,USB-C Cable,Accessories,23,12.74,293.02,East
+2025-03-24,Bluetooth Speaker,Electronics,11,48.46,533.06,South
+2025-03-24,Screen Protector,Accessories,34,9.57,325.38,East
+2025-03-24,Power Bank,Electronics,19,32.03,608.57,North
+2025-03-24,Desk Lamp,Office,7,22.95,160.65,East
+2025-03-24,Webcam,Electronics,6,57.2,343.2,North
+2025-03-24,Keyboard,Electronics,6,72.45,434.7,East
+2025-03-24,Notebook Set,Office,20,14.3,286.0,East
+2025-03-25,Wireless Headphones,Electronics,23,73.69,1694.87,North
+2025-03-25,Phone Case,Accessories,37,21.52,796.24,North
+2025-03-25,USB-C Cable,Accessories,46,13.46,619.16,South
+2025-03-25,Laptop Stand,Office,6,39.59,237.54,West
+2025-03-25,Wireless Mouse,Electronics,26,28.12,731.12,East
+2025-03-25,Screen Protector,Accessories,27,9.01,243.27,South
+2025-03-25,Desk Lamp,Office,14,24.66,345.24,North
+2025-03-25,Webcam,Electronics,7,54.1,378.7,East
+2025-03-25,Keyboard,Electronics,10,66.38,663.8,East
+2025-03-26,Phone Case,Accessories,37,18.05,667.85,North
+2025-03-26,Screen Protector,Accessories,55,10.2,561.0,East
+2025-03-26,Desk Lamp,Office,13,26.51,344.63,West
+2025-03-26,Webcam,Electronics,6,56.39,338.34,East
+2025-03-26,Keyboard,Electronics,11,70.29,773.19,North
+2025-03-26,Notebook Set,Office,35,15.24,533.4,South
+2025-03-27,Phone Case,Accessories,41,20.66,847.06,East
+2025-03-27,USB-C Cable,Accessories,43,12.34,530.62,East
+2025-03-27,Bluetooth Speaker,Electronics,11,51.48,566.28,West
+2025-03-27,Wireless Mouse,Electronics,15,29.65,444.75,North
+2025-03-27,Screen Protector,Accessories,45,9.1,409.5,South
+2025-03-27,Power Bank,Electronics,10,36.84,368.4,South
+2025-03-27,Desk Lamp,Office,7,23.29,163.03,North
+2025-03-27,Notebook Set,Office,34,15.93,541.62,East
+2025-03-28,USB-C Cable,Accessories,28,13.03,364.84,South
+2025-03-28,Bluetooth Speaker,Electronics,10,53.27,532.7,East
+2025-03-28,Laptop Stand,Office,11,43.61,479.71,South
+2025-03-28,Wireless Mouse,Electronics,20,32.64,652.8,West
+2025-03-28,Power Bank,Electronics,18,35.01,630.18,North
+2025-03-28,Desk Lamp,Office,11,26.68,293.48,West
+2025-03-28,Webcam,Electronics,5,61.32,306.6,North
+2025-03-28,Keyboard,Electronics,6,72.7,436.2,North
+2025-03-29,USB-C Cable,Accessories,47,13.03,612.41,North
+2025-03-29,Screen Protector,Accessories,33,9.7,320.1,North
+2025-03-29,Desk Lamp,Office,11,23.72,260.92,North
+2025-03-29,Webcam,Electronics,4,56.63,226.52,West
+2025-03-29,Keyboard,Electronics,9,68.81,619.29,South
+2025-03-29,Notebook Set,Office,29,15.6,452.4,North
+2025-03-30,Wireless Headphones,Electronics,14,85.92,1202.88,East
+2025-03-30,Phone Case,Accessories,18,20.41,367.38,North
+2025-03-30,USB-C Cable,Accessories,24,13.49,323.76,North
+2025-03-30,Bluetooth Speaker,Electronics,16,47.03,752.48,South
+2025-03-30,Laptop Stand,Office,4,42.33,169.32,North
+2025-03-30,Wireless Mouse,Electronics,21,30.76,645.96,East
+2025-03-30,Desk Lamp,Office,10,26.67,266.7,West
+2025-03-30,Webcam,Electronics,5,57.99,289.95,East
+2025-03-30,Keyboard,Electronics,6,74.96,449.76,West
+2025-03-30,Notebook Set,Office,14,14.65,205.1,West
+2025-03-31,Wireless Headphones,Electronics,11,73.06,803.66,West
+2025-03-31,Phone Case,Accessories,31,21.86,677.66,North
+2025-03-31,USB-C Cable,Accessories,21,12.67,266.07,West
+2025-03-31,Bluetooth Speaker,Electronics,17,50.58,859.86,South
+2025-03-31,Wireless Mouse,Electronics,17,27.4,465.8,South
+2025-03-31,Screen Protector,Accessories,55,10.3,566.5,East
+2025-03-31,Webcam,Electronics,5,54.05,270.25,West
+2025-03-31,Keyboard,Electronics,9,63.92,575.28,East
+2025-03-31,Notebook Set,Office,32,15.74,503.68,West
+2025-04-01,Wireless Headphones,Electronics,10,82.73,827.3,East
+2025-04-01,Phone Case,Accessories,20,18.77,375.4,West
+2025-04-01,USB-C Cable,Accessories,53,13.66,723.98,East
+2025-04-01,Bluetooth Speaker,Electronics,16,50.78,812.48,East
+2025-04-01,Wireless Mouse,Electronics,24,28.62,686.88,North
+2025-04-01,Screen Protector,Accessories,33,9.42,310.86,South
+2025-04-01,Power Bank,Electronics,18,32.81,590.58,North
+2025-04-01,Desk Lamp,Office,8,26.6,212.8,East
+2025-04-01,Webcam,Electronics,4,62.3,249.2,North
+2025-04-01,Keyboard,Electronics,10,67.53,675.3,North
+2025-04-02,Wireless Headphones,Electronics,11,81.51,896.61,North
+2025-04-02,Phone Case,Accessories,39,21.1,822.9,East
+2025-04-02,Laptop Stand,Office,6,39.45,236.7,North
+2025-04-02,Power Bank,Electronics,13,35.39,460.07,North
+2025-04-02,Desk Lamp,Office,8,26.98,215.84,West
+2025-04-02,Webcam,Electronics,8,65.94,527.52,West
+2025-04-02,Keyboard,Electronics,6,71.06,426.36,North
+2025-04-03,Wireless Headphones,Electronics,13,83.96,1091.48,West
+2025-04-03,Phone Case,Accessories,44,18.96,834.24,North
+2025-04-03,USB-C Cable,Accessories,24,11.75,282.0,South
+2025-04-03,Bluetooth Speaker,Electronics,12,48.12,577.44,East
+2025-04-03,Screen Protector,Accessories,50,10.51,525.5,North
+2025-04-03,Power Bank,Electronics,20,35.43,708.6,East
+2025-04-03,Desk Lamp,Office,10,25.39,253.9,West
+2025-04-03,Webcam,Electronics,5,62.48,312.4,South
+2025-04-03,Notebook Set,Office,35,16.28,569.8,South
+2025-04-04,Wireless Headphones,Electronics,11,87.92,967.12,West
+2025-04-04,Phone Case,Accessories,39,20.85,813.15,East
+2025-04-04,Bluetooth Speaker,Electronics,14,51.76,724.64,South
+2025-04-04,Laptop Stand,Office,5,39.99,199.95,East
+2025-04-04,Wireless Mouse,Electronics,22,28.64,630.08,North
+2025-04-04,Screen Protector,Accessories,49,9.35,458.15,East
+2025-04-04,Power Bank,Electronics,21,37.35,784.35,North
+2025-04-04,Webcam,Electronics,6,62.39,374.34,West
+2025-04-04,Keyboard,Electronics,13,70.49,916.37,South
+2025-04-04,Notebook Set,Office,16,15.21,243.36,North
+2025-04-05,Wireless Headphones,Electronics,17,81.48,1385.16,South
+2025-04-05,Bluetooth Speaker,Electronics,7,51.06,357.42,West
+2025-04-05,Laptop Stand,Office,9,37.68,339.12,West
+2025-04-05,Wireless Mouse,Electronics,13,31.41,408.33,North
+2025-04-05,Screen Protector,Accessories,67,9.05,606.35,West
+2025-04-05,Power Bank,Electronics,26,34.75,903.5,West
+2025-04-05,Webcam,Electronics,3,65.69,197.07,West
+2025-04-05,Keyboard,Electronics,12,64.18,770.16,South
+2025-04-06,USB-C Cable,Accessories,29,11.95,346.55,North
+2025-04-06,Laptop Stand,Office,10,43.73,437.3,South
+2025-04-06,Screen Protector,Accessories,37,9.59,354.83,North
+2025-04-06,Webcam,Electronics,6,54.74,328.44,North
+2025-04-06,Keyboard,Electronics,5,67.79,338.95,West
+2025-04-07,Phone Case,Accessories,24,20.24,485.76,West
+2025-04-07,Bluetooth Speaker,Electronics,12,46.43,557.16,East
+2025-04-07,Wireless Mouse,Electronics,11,29.75,327.25,South
+2025-04-07,Screen Protector,Accessories,25,9.83,245.75,South
+2025-04-07,Power Bank,Electronics,19,36.16,687.04,East
+2025-04-07,Desk Lamp,Office,8,25.18,201.44,West
+2025-04-07,Webcam,Electronics,7,58.45,409.15,North
+2025-04-07,Keyboard,Electronics,11,69.89,768.79,South
+2025-04-07,Notebook Set,Office,21,16.07,337.47,South
+2025-04-08,Wireless Headphones,Electronics,15,84.19,1262.85,North
+2025-04-08,USB-C Cable,Accessories,25,13.17,329.25,East
+2025-04-08,Bluetooth Speaker,Electronics,13,47.29,614.77,East
+2025-04-08,Laptop Stand,Office,9,37.12,334.08,East
+2025-04-08,Webcam,Electronics,4,65.11,260.44,West
+2025-04-08,Keyboard,Electronics,5,68.23,341.15,East
+2025-04-08,Notebook Set,Office,14,15.16,212.24,West
+2025-04-09,Wireless Headphones,Electronics,11,82.75,910.25,North
+2025-04-09,USB-C Cable,Accessories,28,12.37,346.36,North
+2025-04-09,Bluetooth Speaker,Electronics,15,51.26,768.9,East
+2025-04-09,Wireless Mouse,Electronics,17,27.55,468.35,South
+2025-04-09,Screen Protector,Accessories,24,9.57,229.68,North
+2025-04-09,Desk Lamp,Office,9,24.82,223.38,East
+2025-04-09,Keyboard,Electronics,8,71.35,570.8,West
+2025-04-09,Notebook Set,Office,22,15.97,351.34,North
+2025-04-10,USB-C Cable,Accessories,38,13.29,505.02,West
+2025-04-10,Bluetooth Speaker,Electronics,12,45.49,545.88,North
+2025-04-10,Laptop Stand,Office,7,42.7,298.9,North
+2025-04-10,Screen Protector,Accessories,33,9.09,299.97,East
+2025-04-10,Desk Lamp,Office,7,23.36,163.52,South
+2025-04-10,Webcam,Electronics,5,63.0,315.0,North
+2025-04-10,Keyboard,Electronics,6,72.47,434.82,East
+2025-04-10,Notebook Set,Office,22,13.69,301.18,North
+2025-04-11,Wireless Headphones,Electronics,16,84.39,1350.24,North
+2025-04-11,Phone Case,Accessories,15,21.84,327.6,East
+2025-04-11,USB-C Cable,Accessories,29,13.28,385.12,East
+2025-04-11,Bluetooth Speaker,Electronics,16,54.46,871.36,West
+2025-04-11,Laptop Stand,Office,6,38.24,229.44,West
+2025-04-11,Screen Protector,Accessories,54,10.24,552.96,West
+2025-04-11,Power Bank,Electronics,15,32.04,480.6,South
+2025-04-11,Webcam,Electronics,7,65.21,456.47,North
+2025-04-11,Keyboard,Electronics,12,63.86,766.32,North
+2025-04-12,Wireless Headphones,Electronics,10,87.48,874.8,South
+2025-04-12,Phone Case,Accessories,22,19.87,437.14,East
+2025-04-12,USB-C Cable,Accessories,47,13.19,619.93,West
+2025-04-12,Bluetooth Speaker,Electronics,15,45.55,683.25,North
+2025-04-12,Wireless Mouse,Electronics,18,29.4,529.2,West
+2025-04-12,Screen Protector,Accessories,63,9.62,606.06,East
+2025-04-12,Keyboard,Electronics,8,74.62,596.96,North
+2025-04-12,Notebook Set,Office,25,14.35,358.75,South
+2025-04-13,Phone Case,Accessories,28,18.65,522.2,North
+2025-04-13,USB-C Cable,Accessories,53,12.58,666.74,East
+2025-04-13,Bluetooth Speaker,Electronics,17,53.2,904.4,East
+2025-04-13,Laptop Stand,Office,11,39.19,431.09,South
+2025-04-13,Screen Protector,Accessories,58,9.2,533.6,East
+2025-04-13,Power Bank,Electronics,11,38.35,421.85,North
+2025-04-13,Webcam,Electronics,6,54.38,326.28,East
+2025-04-13,Keyboard,Electronics,5,65.41,327.05,East
+2025-04-14,Wireless Headphones,Electronics,21,87.73,1842.33,North
+2025-04-14,Phone Case,Accessories,27,19.38,523.26,North
+2025-04-14,Bluetooth Speaker,Electronics,11,47.26,519.86,East
+2025-04-14,Wireless Mouse,Electronics,17,31.93,542.81,West
+2025-04-14,Screen Protector,Accessories,38,9.72,369.36,West
+2025-04-14,Power Bank,Electronics,12,32.08,384.96,South
+2025-04-14,Desk Lamp,Office,13,23.6,306.8,South
+2025-04-14,Webcam,Electronics,7,58.61,410.27,South
+2025-04-14,Keyboard,Electronics,12,64.65,775.8,West
+2025-04-14,Notebook Set,Office,25,13.59,339.75,South
+2025-04-15,Wireless Headphones,Electronics,10,82.49,824.9,West
+2025-04-15,Phone Case,Accessories,36,18.26,657.36,South
+2025-04-15,Bluetooth Speaker,Electronics,17,51.61,877.37,North
+2025-04-15,Laptop Stand,Office,8,39.22,313.76,West
+2025-04-15,Wireless Mouse,Electronics,22,29.23,643.06,North
+2025-04-15,Power Bank,Electronics,16,36.22,579.52,East
+2025-04-15,Webcam,Electronics,3,55.87,167.61,West
+2025-04-15,Notebook Set,Office,16,16.13,258.08,East
+2025-04-16,Phone Case,Accessories,36,21.82,785.52,North
+2025-04-16,USB-C Cable,Accessories,54,14.07,759.78,East
+2025-04-16,Bluetooth Speaker,Electronics,10,52.51,525.1,South
+2025-04-16,Laptop Stand,Office,7,41.84,292.88,West
+2025-04-16,Screen Protector,Accessories,46,10.68,491.28,South
+2025-04-16,Power Bank,Electronics,25,33.25,831.25,West
+2025-04-16,Desk Lamp,Office,10,24.03,240.3,East
+2025-04-16,Webcam,Electronics,2,57.25,114.5,North
+2025-04-16,Keyboard,Electronics,13,68.52,890.76,East
+2025-04-16,Notebook Set,Office,29,15.91,461.39,West
+2025-04-17,Wireless Headphones,Electronics,21,76.25,1601.25,West
+2025-04-17,USB-C Cable,Accessories,43,13.48,579.64,North
+2025-04-17,Bluetooth Speaker,Electronics,8,51.22,409.76,North
+2025-04-17,Laptop Stand,Office,8,39.33,314.64,North
+2025-04-17,Screen Protector,Accessories,56,10.79,604.24,North
+2025-04-17,Power Bank,Electronics,10,31.61,316.1,East
+2025-04-17,Desk Lamp,Office,6,23.66,141.96,North
+2025-04-17,Webcam,Electronics,8,55.62,444.96,North
+2025-04-17,Keyboard,Electronics,12,68.86,826.32,North
+2025-04-18,Wireless Headphones,Electronics,14,72.45,1014.3,East
+2025-04-18,USB-C Cable,Accessories,30,11.8,354.0,East
+2025-04-18,Bluetooth Speaker,Electronics,17,50.43,857.31,North
+2025-04-18,Laptop Stand,Office,6,43.22,259.32,South
+2025-04-18,Wireless Mouse,Electronics,11,29.55,325.05,West
+2025-04-18,Screen Protector,Accessories,32,9.44,302.08,West
+2025-04-18,Power Bank,Electronics,10,34.64,346.4,South
+2025-04-18,Desk Lamp,Office,5,23.55,117.75,East
+2025-04-18,Keyboard,Electronics,8,67.67,541.36,South
+2025-04-18,Notebook Set,Office,16,15.21,243.36,West
+2025-04-19,Wireless Headphones,Electronics,10,74.38,743.8,North
+2025-04-19,Phone Case,Accessories,27,20.71,559.17,North
+2025-04-19,Bluetooth Speaker,Electronics,14,46.92,656.88,East
+2025-04-19,Wireless Mouse,Electronics,27,28.77,776.79,North
+2025-04-19,Screen Protector,Accessories,33,10.33,340.89,West
+2025-04-19,Power Bank,Electronics,23,34.27,788.21,North
+2025-04-19,Desk Lamp,Office,8,25.85,206.8,North
+2025-04-19,Keyboard,Electronics,5,76.83,384.15,West
+2025-04-19,Notebook Set,Office,28,15.22,426.16,West
+2025-04-20,Phone Case,Accessories,33,19.63,647.79,South
+2025-04-20,USB-C Cable,Accessories,40,13.9,556.0,North
+2025-04-20,Bluetooth Speaker,Electronics,14,53.22,745.08,East
+2025-04-20,Laptop Stand,Office,4,42.54,170.16,North
+2025-04-20,Wireless Mouse,Electronics,29,28.75,833.75,North
+2025-04-20,Screen Protector,Accessories,33,10.72,353.76,North
+2025-04-20,Desk Lamp,Office,11,26.72,293.92,South
+2025-04-20,Webcam,Electronics,5,61.23,306.15,East
+2025-04-20,Keyboard,Electronics,8,66.85,534.8,East
+2025-04-21,Wireless Headphones,Electronics,12,82.0,984.0,East
+2025-04-21,Laptop Stand,Office,10,36.35,363.5,East
+2025-04-21,Wireless Mouse,Electronics,19,32.56,618.64,South
+2025-04-21,Screen Protector,Accessories,23,9.15,210.45,North
+2025-04-21,Desk Lamp,Office,9,25.23,227.07,North
+2025-04-21,Keyboard,Electronics,13,63.7,828.1,West
+2025-04-21,Notebook Set,Office,26,14.99,389.74,North
+2025-04-22,Phone Case,Accessories,25,21.66,541.5,South
+2025-04-22,Bluetooth Speaker,Electronics,9,50.24,452.16,East
+2025-04-22,Laptop Stand,Office,10,41.4,414.0,East
+2025-04-22,Wireless Mouse,Electronics,15,27.0,405.0,North
+2025-04-22,Power Bank,Electronics,20,35.64,712.8,North
+2025-04-22,Desk Lamp,Office,8,25.81,206.48,East
+2025-04-22,Webcam,Electronics,3,55.12,165.36,West
+2025-04-22,Keyboard,Electronics,10,64.44,644.4,South
+2025-04-22,Notebook Set,Office,31,13.85,429.35,North
+2025-04-23,Wireless Headphones,Electronics,14,76.06,1064.84,North
+2025-04-23,Phone Case,Accessories,40,21.82,872.8,East
+2025-04-23,USB-C Cable,Accessories,22,13.12,288.64,South
+2025-04-23,Bluetooth Speaker,Electronics,10,47.39,473.9,North
+2025-04-23,Laptop Stand,Office,4,37.41,149.64,West
+2025-04-23,Wireless Mouse,Electronics,20,32.23,644.6,West
+2025-04-23,Screen Protector,Accessories,59,9.64,568.76,South
+2025-04-23,Power Bank,Electronics,21,36.26,761.46,South
+2025-04-23,Webcam,Electronics,3,60.93,182.79,East
+2025-04-23,Keyboard,Electronics,11,75.21,827.31,South
+2025-04-23,Notebook Set,Office,27,14.05,379.35,North
+2025-04-24,Phone Case,Accessories,33,21.39,705.87,North
+2025-04-24,Bluetooth Speaker,Electronics,7,49.77,348.39,East
+2025-04-24,Laptop Stand,Office,4,36.45,145.8,North
+2025-04-24,Wireless Mouse,Electronics,20,28.39,567.8,East
+2025-04-24,Screen Protector,Accessories,24,9.99,239.76,East
+2025-04-24,Desk Lamp,Office,11,26.98,296.78,West
+2025-04-24,Webcam,Electronics,6,58.37,350.22,East
+2025-04-24,Keyboard,Electronics,6,72.81,436.86,East
+2025-04-24,Notebook Set,Office,35,13.55,474.25,South
+2025-04-25,Phone Case,Accessories,36,19.32,695.52,East
+2025-04-25,USB-C Cable,Accessories,47,12.87,604.89,South
+2025-04-25,Bluetooth Speaker,Electronics,9,46.2,415.8,East
+2025-04-25,Laptop Stand,Office,7,36.49,255.43,South
+2025-04-25,Wireless Mouse,Electronics,13,30.94,402.22,West
+2025-04-25,Screen Protector,Accessories,38,9.79,372.02,North
+2025-04-25,Power Bank,Electronics,16,34.2,547.2,East
+2025-04-25,Desk Lamp,Office,11,22.8,250.8,West
+2025-04-25,Webcam,Electronics,6,65.44,392.64,North
+2025-04-25,Keyboard,Electronics,9,71.13,640.17,South
+2025-04-25,Notebook Set,Office,15,14.67,220.05,North
+2025-04-26,Wireless Headphones,Electronics,11,72.93,802.23,East
+2025-04-26,Phone Case,Accessories,41,20.3,832.3,South
+2025-04-26,USB-C Cable,Accessories,39,11.9,464.1,East
+2025-04-26,Bluetooth Speaker,Electronics,10,47.95,479.5,North
+2025-04-26,Wireless Mouse,Electronics,21,27.47,576.87,West
+2025-04-26,Screen Protector,Accessories,48,10.65,511.2,North
+2025-04-26,Power Bank,Electronics,20,37.29,745.8,East
+2025-04-26,Webcam,Electronics,3,64.49,193.47,West
+2025-04-26,Notebook Set,Office,13,14.71,191.23,South
+2025-04-27,Wireless Headphones,Electronics,24,82.75,1986.0,South
+2025-04-27,Phone Case,Accessories,43,18.08,777.44,West
+2025-04-27,Bluetooth Speaker,Electronics,9,46.31,416.79,South
+2025-04-27,Laptop Stand,Office,7,36.43,255.01,East
+2025-04-27,Wireless Mouse,Electronics,17,28.29,480.93,South
+2025-04-27,Power Bank,Electronics,23,35.61,819.03,South
+2025-04-27,Desk Lamp,Office,10,26.62,266.2,East
+2025-04-27,Webcam,Electronics,5,58.96,294.8,West
+2025-04-27,Keyboard,Electronics,9,66.08,594.72,East
+2025-04-27,Notebook Set,Office,17,13.67,232.39,East
+2025-04-28,Wireless Headphones,Electronics,17,75.62,1285.54,East
+2025-04-28,USB-C Cable,Accessories,24,12.17,292.08,North
+2025-04-28,Bluetooth Speaker,Electronics,6,48.97,293.82,South
+2025-04-28,Laptop Stand,Office,7,42.7,298.9,North
+2025-04-28,Wireless Mouse,Electronics,11,27.42,301.62,East
+2025-04-28,Screen Protector,Accessories,62,10.11,626.82,West
+2025-04-28,Notebook Set,Office,28,13.63,381.64,West
+2025-04-29,Wireless Headphones,Electronics,13,73.23,951.99,North
+2025-04-29,Bluetooth Speaker,Electronics,8,48.57,388.56,West
+2025-04-29,Laptop Stand,Office,11,37.13,408.43,South
+2025-04-29,Wireless Mouse,Electronics,11,27.02,297.22,East
+2025-04-29,Screen Protector,Accessories,40,9.97,398.8,South
+2025-04-29,Desk Lamp,Office,6,22.98,137.88,West
+2025-04-29,Webcam,Electronics,6,57.77,346.62,South
+2025-04-30,Phone Case,Accessories,35,20.18,706.3,South
+2025-04-30,USB-C Cable,Accessories,21,12.42,260.82,South
+2025-04-30,Bluetooth Speaker,Electronics,17,47.4,805.8,West
+2025-04-30,Laptop Stand,Office,5,39.18,195.9,South
+2025-04-30,Wireless Mouse,Electronics,13,31.78,413.14,South
+2025-04-30,Screen Protector,Accessories,41,10.15,416.15,West
+2025-04-30,Power Bank,Electronics,24,31.91,765.84,East
+2025-04-30,Webcam,Electronics,5,58.82,294.1,South
+2025-04-30,Keyboard,Electronics,5,72.45,362.25,South
+2025-05-01,Phone Case,Accessories,41,21.62,886.42,West
+2025-05-01,Bluetooth Speaker,Electronics,14,49.83,697.62,South
+2025-05-01,Laptop Stand,Office,8,40.59,324.72,North
+2025-05-01,Wireless Mouse,Electronics,21,30.41,638.61,North
+2025-05-01,Screen Protector,Accessories,23,9.7,223.1,East
+2025-05-01,Power Bank,Electronics,13,36.35,472.55,East
+2025-05-01,Desk Lamp,Office,12,25.54,306.48,South
+2025-05-01,Notebook Set,Office,27,15.03,405.81,North
+2025-05-02,Phone Case,Accessories,23,20.93,481.39,North
+2025-05-02,USB-C Cable,Accessories,54,12.14,655.56,South
+2025-05-02,Laptop Stand,Office,8,39.25,314.0,South
+2025-05-02,Wireless Mouse,Electronics,13,27.13,352.69,West
+2025-05-02,Screen Protector,Accessories,62,10.18,631.16,West
+2025-05-02,Power Bank,Electronics,22,37.88,833.36,East
+2025-05-03,Wireless Headphones,Electronics,17,81.4,1383.8,South
+2025-05-03,Phone Case,Accessories,17,18.34,311.78,North
+2025-05-03,USB-C Cable,Accessories,26,12.43,323.18,South
+2025-05-03,Bluetooth Speaker,Electronics,6,51.48,308.88,East
+2025-05-03,Laptop Stand,Office,11,36.15,397.65,North
+2025-05-03,Wireless Mouse,Electronics,19,30.38,577.22,East
+2025-05-03,Screen Protector,Accessories,64,10.98,702.72,East
+2025-05-03,Desk Lamp,Office,5,23.65,118.25,West
+2025-05-04,Wireless Headphones,Electronics,16,82.79,1324.64,North
+2025-05-04,Phone Case,Accessories,37,19.24,711.88,South
+2025-05-04,Bluetooth Speaker,Electronics,13,54.33,706.29,South
+2025-05-04,Laptop Stand,Office,10,41.52,415.2,West
+2025-05-04,Wireless Mouse,Electronics,12,31.02,372.24,East
+2025-05-04,Screen Protector,Accessories,31,10.0,310.0,South
+2025-05-04,Power Bank,Electronics,20,36.71,734.2,North
+2025-05-04,Desk Lamp,Office,7,23.48,164.36,East
+2025-05-04,Webcam,Electronics,4,63.0,252.0,West
+2025-05-04,Keyboard,Electronics,6,76.38,458.28,South
+2025-05-04,Notebook Set,Office,14,14.95,209.3,North
+2025-05-05,Phone Case,Accessories,39,21.49,838.11,South
+2025-05-05,USB-C Cable,Accessories,500,13.68,6840.0,North
+2025-05-05,Bluetooth Speaker,Electronics,17,51.82,880.94,South
+2025-05-05,Laptop Stand,Office,9,40.07,360.63,North
+2025-05-05,Wireless Mouse,Electronics,26,32.16,836.16,North
+2025-05-05,Screen Protector,Accessories,37,10.31,381.47,East
+2025-05-05,Power Bank,Electronics,26,33.68,875.68,West
+2025-05-05,Webcam,Electronics,6,62.12,372.72,North
+2025-05-05,Keyboard,Electronics,6,63.74,382.44,East
+2025-05-05,Notebook Set,Office,33,14.64,483.12,North
+2025-05-06,Wireless Headphones,Electronics,17,75.02,1275.34,East
+2025-05-06,Phone Case,Accessories,33,19.83,654.39,West
+2025-05-06,USB-C Cable,Accessories,45,11.96,538.2,West
+2025-05-06,Bluetooth Speaker,Electronics,14,48.62,680.68,West
+2025-05-06,Laptop Stand,Office,4,39.25,157.0,West
+2025-05-06,Screen Protector,Accessories,53,10.25,543.25,North
+2025-05-06,Desk Lamp,Office,7,26.37,184.59,South
+2025-05-06,Notebook Set,Office,36,14.6,525.6,South
+2025-05-07,Wireless Headphones,Electronics,17,79.04,1343.68,West
+2025-05-07,Phone Case,Accessories,30,18.54,556.2,West
+2025-05-07,Laptop Stand,Office,8,39.31,314.48,South
+2025-05-07,Wireless Mouse,Electronics,13,31.91,414.83,East
+2025-05-07,Screen Protector,Accessories,43,9.5,408.5,East
+2025-05-07,Power Bank,Electronics,14,35.66,499.24,West
+2025-05-07,Desk Lamp,Office,14,24.22,339.08,North
+2025-05-07,Keyboard,Electronics,6,62.99,377.94,West
+2025-05-07,Notebook Set,Office,31,13.99,433.69,North
+2025-05-08,Phone Case,Accessories,42,19.71,827.82,North
+2025-05-08,USB-C Cable,Accessories,31,12.66,392.46,East
+2025-05-08,Bluetooth Speaker,Electronics,7,45.35,317.45,West
+2025-05-08,Desk Lamp,Office,13,24.2,314.6,South
+2025-05-08,Webcam,Electronics,5,64.33,321.65,West
+2025-05-08,Notebook Set,Office,24,16.46,395.04,South
+2025-05-09,Wireless Headphones,Electronics,21,75.97,1595.37,South
+2025-05-09,Phone Case,Accessories,40,18.38,735.2,East
+2025-05-09,USB-C Cable,Accessories,18,12.74,229.32,North
+2025-05-09,Bluetooth Speaker,Electronics,10,53.26,532.6,North
+2025-05-09,Laptop Stand,Office,5,37.86,189.3,North
+2025-05-09,Screen Protector,Accessories,35,9.82,343.7,South
+2025-05-09,Power Bank,Electronics,25,34.94,873.5,South
+2025-05-09,Webcam,Electronics,2,57.56,115.12,North
+2025-05-09,Keyboard,Electronics,5,73.95,369.75,North
+2025-05-09,Notebook Set,Office,15,13.7,205.5,West
+2025-05-10,Phone Case,Accessories,31,18.3,567.3,West
+2025-05-10,Bluetooth Speaker,Electronics,8,53.53,428.24,North
+2025-05-10,Laptop Stand,Office,10,43.47,434.7,West
+2025-05-10,Wireless Mouse,Electronics,27,28.19,761.13,North
+2025-05-10,Power Bank,Electronics,16,35.3,564.8,North
+2025-05-10,Desk Lamp,Office,6,24.04,144.24,South
+2025-05-10,Webcam,Electronics,6,61.74,370.44,North
+2025-05-10,Keyboard,Electronics,5,68.27,341.35,South
+2025-05-11,Phone Case,Accessories,43,19.4,834.2,North
+2025-05-11,Bluetooth Speaker,Electronics,17,46.4,788.8,East
+2025-05-11,Wireless Mouse,Electronics,17,31.64,537.88,South
+2025-05-11,Screen Protector,Accessories,31,9.28,287.68,West
+2025-05-11,Power Bank,Electronics,24,35.87,860.88,West
+2025-05-11,Webcam,Electronics,4,61.62,246.48,South
+2025-05-11,Notebook Set,Office,32,14.64,468.48,North
+2025-05-12,Bluetooth Speaker,Electronics,13,51.95,675.35,South
+2025-05-12,Laptop Stand,Office,5,39.74,198.7,West
+2025-05-12,Power Bank,Electronics,15,36.28,544.2,North
+2025-05-12,Desk Lamp,Office,8,22.77,182.16,East
+2025-05-12,Keyboard,Electronics,5,65.05,325.25,North
+2025-05-13,Wireless Headphones,Electronics,8,79.73,637.84,North
+2025-05-13,Phone Case,Accessories,42,18.64,782.88,West
+2025-05-13,Bluetooth Speaker,Electronics,12,53.83,645.96,East
+2025-05-13,Laptop Stand,Office,5,37.32,186.6,West
+2025-05-13,Wireless Mouse,Electronics,17,31.55,536.35,South
+2025-05-13,Screen Protector,Accessories,55,10.18,559.9,West
+2025-05-13,Webcam,Electronics,3,62.92,188.76,West
+2025-05-13,Keyboard,Electronics,7,76.45,535.15,South
+2025-05-13,Notebook Set,Office,21,16.22,340.62,East
+2025-05-14,Wireless Headphones,Electronics,22,77.46,1704.12,South
+2025-05-14,Phone Case,Accessories,25,21.17,529.25,West
+2025-05-14,USB-C Cable,Accessories,46,13.78,633.88,West
+2025-05-14,Bluetooth Speaker,Electronics,6,49.01,294.06,East
+2025-05-14,Laptop Stand,Office,9,38.85,349.65,East
+2025-05-14,Screen Protector,Accessories,47,9.4,441.8,North
+2025-05-14,Power Bank,Electronics,17,33.0,561.0,West
+2025-05-14,Desk Lamp,Office,14,24.63,344.82,South
+2025-05-14,Webcam,Electronics,5,62.48,312.4,North
+2025-05-14,Keyboard,Electronics,5,65.87,329.35,North
+2025-05-15,Wireless Headphones,Electronics,12,82.6,991.2,West
+2025-05-15,Phone Case,Accessories,19,20.9,397.1,East
+2025-05-15,USB-C Cable,Accessories,47,14.23,668.81,East
+2025-05-15,Bluetooth Speaker,Electronics,13,45.68,593.84,West
+2025-05-15,Wireless Mouse,Electronics,26,30.57,794.82,South
+2025-05-15,Screen Protector,Accessories,60,9.67,580.2,West
+2025-05-15,Desk Lamp,Office,13,23.4,304.2,South
+2025-05-15,Keyboard,Electronics,9,71.88,646.92,North
+2025-05-16,Phone Case,Accessories,31,21.42,664.02,East
+2025-05-16,USB-C Cable,Accessories,54,13.56,732.24,West
+2025-05-16,Bluetooth Speaker,Electronics,9,45.52,409.68,East
+2025-05-16,Wireless Mouse,Electronics,20,30.38,607.6,East
+2025-05-16,Power Bank,Electronics,20,38.28,765.6,East
+2025-05-16,Desk Lamp,Office,12,25.45,305.4,North
+2025-05-16,Webcam,Electronics,5,61.22,306.1,South
+2025-05-16,Keyboard,Electronics,7,70.26,491.82,North
+2025-05-16,Notebook Set,Office,17,13.75,233.75,South
+2025-05-17,Wireless Headphones,Electronics,15,76.42,1146.3,East
+2025-05-17,Phone Case,Accessories,42,21.68,910.56,South
+2025-05-17,USB-C Cable,Accessories,46,11.79,542.34,South
+2025-05-17,Bluetooth Speaker,Electronics,17,45.11,766.87,East
+2025-05-17,Laptop Stand,Office,7,36.67,256.69,West
+2025-05-17,Wireless Mouse,Electronics,22,28.41,625.02,South
+2025-05-17,Screen Protector,Accessories,25,9.2,230.0,West
+2025-05-17,Webcam,Electronics,6,54.73,328.38,East
+2025-05-18,Phone Case,Accessories,18,18.17,327.06,South
+2025-05-18,USB-C Cable,Accessories,28,12.79,358.12,North
+2025-05-18,Bluetooth Speaker,Electronics,12,50.7,608.4,South
+2025-05-18,Laptop Stand,Office,4,38.92,155.68,North
+2025-05-18,Wireless Mouse,Electronics,29,32.81,951.49,West
+2025-05-18,Screen Protector,Accessories,54,9.56,516.24,East
+2025-05-18,Power Bank,Electronics,17,36.79,625.43,North
+2025-05-18,Desk Lamp,Office,14,22.77,318.78,South
+2025-05-18,Webcam,Electronics,5,60.55,302.75,North
+2025-05-18,Keyboard,Electronics,12,70.82,849.84,South
+2025-05-19,Phone Case,Accessories,26,20.4,530.4,North
+2025-05-19,USB-C Cable,Accessories,53,13.19,699.07,North
+2025-05-19,Bluetooth Speaker,Electronics,15,49.05,735.75,West
+2025-05-19,Laptop Stand,Office,11,40.98,450.78,North
+2025-05-19,Wireless Mouse,Electronics,14,32.44,454.16,East
+2025-05-19,Screen Protector,Accessories,36,9.36,336.96,East
+2025-05-19,Power Bank,Electronics,13,35.81,465.53,North
+2025-05-19,Desk Lamp,Office,9,23.23,209.07,West
+2025-05-20,Wireless Headphones,Electronics,15,81.04,1215.6,North
+2025-05-20,USB-C Cable,Accessories,49,13.99,685.51,North
+2025-05-20,Bluetooth Speaker,Electronics,16,48.87,781.92,West
+2025-05-20,Wireless Mouse,Electronics,25,32.64,816.0,East
+2025-05-20,Screen Protector,Accessories,64,9.54,610.56,South
+2025-05-20,Power Bank,Electronics,22,37.99,835.78,North
+2025-05-20,Desk Lamp,Office,12,22.81,273.72,South
+2025-05-20,Keyboard,Electronics,13,71.99,935.87,East
+2025-05-20,Notebook Set,Office,21,15.89,333.69,South
+2025-05-21,Wireless Headphones,Electronics,11,87.15,958.65,North
+2025-05-21,Phone Case,Accessories,37,19.57,724.09,East
+2025-05-21,USB-C Cable,Accessories,46,12.28,564.88,North
+2025-05-21,Laptop Stand,Office,5,38.83,194.15,South
+2025-05-21,Screen Protector,Accessories,62,9.29,575.98,East
+2025-05-21,Power Bank,Electronics,16,36.4,582.4,South
+2025-05-21,Desk Lamp,Office,5,25.95,129.75,East
+2025-05-21,Keyboard,Electronics,13,68.88,895.44,South
+2025-05-21,Notebook Set,Office,30,15.24,457.2,East
+2025-05-22,Wireless Headphones,Electronics,16,79.59,1273.44,South
+2025-05-22,Phone Case,Accessories,35,18.32,641.2,West
+2025-05-22,USB-C Cable,Accessories,21,13.12,275.52,South
+2025-05-22,Bluetooth Speaker,Electronics,8,53.25,426.0,East
+2025-05-22,Wireless Mouse,Electronics,20,28.74,574.8,South
+2025-05-22,Screen Protector,Accessories,36,9.38,337.68,North
+2025-05-22,Desk Lamp,Office,9,23.63,212.67,North
+2025-05-22,Webcam,Electronics,7,58.11,406.77,West
+2025-05-22,Keyboard,Electronics,6,75.47,452.82,South
+2025-05-22,Notebook Set,Office,37,13.64,504.68,North
+2025-05-23,Wireless Headphones,Electronics,13,74.94,974.22,North
+2025-05-23,USB-C Cable,Accessories,23,12.91,296.93,East
+2025-05-23,Bluetooth Speaker,Electronics,6,52.82,316.92,North
+2025-05-23,Laptop Stand,Office,11,39.45,433.95,South
+2025-05-23,Wireless Mouse,Electronics,17,32.31,549.27,West
+2025-05-23,Screen Protector,Accessories,50,10.84,542.0,West
+2025-05-23,Power Bank,Electronics,17,33.44,568.48,West
+2025-05-23,Webcam,Electronics,3,57.34,172.02,South
+2025-05-23,Keyboard,Electronics,4,71.09,284.36,North
+2025-05-24,Wireless Headphones,Electronics,17,76.13,1294.21,South
+2025-05-24,USB-C Cable,Accessories,54,14.15,764.1,South
+2025-05-24,Bluetooth Speaker,Electronics,16,45.05,720.8,West
+2025-05-24,Laptop Stand,Office,4,37.28,149.12,West
+2025-05-24,Wireless Mouse,Electronics,10,28.54,285.4,South
+2025-05-24,Screen Protector,Accessories,55,10.98,603.9,North
+2025-05-24,Power Bank,Electronics,18,34.33,617.94,North
+2025-05-24,Desk Lamp,Office,13,24.98,324.74,East
+2025-05-24,Keyboard,Electronics,10,70.2,702.0,West
+2025-05-24,Notebook Set,Office,21,15.81,332.01,North
+2025-05-25,Wireless Headphones,Electronics,14,78.9,1104.6,East
+2025-05-25,Phone Case,Accessories,38,20.3,771.4,South
+2025-05-25,USB-C Cable,Accessories,27,12.27,331.29,South
+2025-05-25,Wireless Mouse,Electronics,20,29.66,593.2,West
+2025-05-25,Screen Protector,Accessories,61,9.27,565.47,East
+2025-05-25,Power Bank,Electronics,19,36.52,693.88,South
+2025-05-25,Webcam,Electronics,4,64.39,257.56,North
+2025-05-25,Keyboard,Electronics,13,66.46,863.98,South
+2025-05-25,Notebook Set,Office,36,14.82,533.52,South
+2025-05-26,Wireless Headphones,Electronics,20,76.37,1527.4,East
+2025-05-26,Bluetooth Speaker,Electronics,10,48.15,481.5,South
+2025-05-26,Laptop Stand,Office,5,38.47,192.35,West
+2025-05-26,Wireless Mouse,Electronics,18,30.45,548.1,West
+2025-05-26,Power Bank,Electronics,21,35.74,750.54,North
+2025-05-26,Desk Lamp,Office,5,25.47,127.35,East
+2025-05-26,Keyboard,Electronics,4,74.8,299.2,South
+2025-05-27,Phone Case,Accessories,17,18.79,319.43,South
+2025-05-27,USB-C Cable,Accessories,38,12.02,456.76,North
+2025-05-27,Wireless Mouse,Electronics,24,28.3,679.2,South
+2025-05-27,Screen Protector,Accessories,66,10.9,719.4,West
+2025-05-27,Webcam,Electronics,3,60.06,180.18,East
+2025-05-27,Keyboard,Electronics,12,68.03,816.36,East
+2025-05-27,Notebook Set,Office,14,15.59,218.26,North
+2025-05-28,Wireless Headphones,Electronics,14,83.08,1163.12,East
+2025-05-28,Phone Case,Accessories,39,19.17,747.63,South
+2025-05-28,USB-C Cable,Accessories,44,14.26,627.44,North
+2025-05-28,Bluetooth Speaker,Electronics,13,54.14,703.82,North
+2025-05-28,Laptop Stand,Office,8,38.19,305.52,South
+2025-05-28,Wireless Mouse,Electronics,21,32.32,678.72,East
+2025-05-28,Screen Protector,Accessories,45,9.09,409.05,North
+2025-05-28,Power Bank,Electronics,14,32.76,458.64,South
+2025-05-28,Desk Lamp,Office,7,24.81,173.67,North
+2025-05-28,Webcam,Electronics,6,62.48,374.88,North
+2025-05-28,Keyboard,Electronics,11,73.74,811.14,North
+2025-05-28,Notebook Set,Office,33,15.22,502.26,East
+2025-05-29,Wireless Headphones,Electronics,17,72.54,1233.18,East
+2025-05-29,USB-C Cable,Accessories,29,13.11,380.19,North
+2025-05-29,Bluetooth Speaker,Electronics,15,46.62,699.3,North
+2025-05-29,Wireless Mouse,Electronics,20,29.79,595.8,North
+2025-05-29,Screen Protector,Accessories,61,10.65,649.65,East
+2025-05-30,Phone Case,Accessories,43,20.43,878.49,West
+2025-05-30,USB-C Cable,Accessories,22,13.6,299.2,North
+2025-05-30,Bluetooth Speaker,Electronics,10,54.97,549.7,North
+2025-05-30,Wireless Mouse,Electronics,10,31.17,311.7,East
+2025-05-30,Screen Protector,Accessories,66,10.94,722.04,North
+2025-05-30,Power Bank,Electronics,20,36.02,720.4,North
+2025-05-30,Desk Lamp,Office,14,27.05,378.7,South
+2025-05-30,Keyboard,Electronics,11,72.81,800.91,South
+2025-05-31,Wireless Headphones,Electronics,16,86.85,1389.6,East
+2025-05-31,Phone Case,Accessories,30,18.26,547.8,West
+2025-05-31,USB-C Cable,Accessories,36,12.61,453.96,East
+2025-05-31,Bluetooth Speaker,Electronics,14,47.67,667.38,South
+2025-05-31,Wireless Mouse,Electronics,10,30.58,305.8,West
+2025-05-31,Screen Protector,Accessories,42,9.91,416.22,North
+2025-05-31,Power Bank,Electronics,23,33.2,763.6,South
+2025-05-31,Desk Lamp,Office,13,23.71,308.23,East
+2025-05-31,Notebook Set,Office,33,15.77,520.41,North
+2025-06-01,Wireless Headphones,Electronics,16,77.47,1239.52,South
+2025-06-01,USB-C Cable,Accessories,40,12.18,487.2,North
+2025-06-01,Wireless Mouse,Electronics,26,27.1,704.6,North
+2025-06-01,Screen Protector,Accessories,59,9.64,568.76,South
+2025-06-01,Power Bank,Electronics,13,31.68,411.84,East
+2025-06-01,Desk Lamp,Office,10,26.2,262.0,East
+2025-06-01,Keyboard,Electronics,5,64.81,324.05,East
+2025-06-01,Notebook Set,Office,36,15.37,553.32,North
+2025-06-02,Phone Case,Accessories,32,20.46,654.72,East
+2025-06-02,USB-C Cable,Accessories,49,11.84,580.16,East
+2025-06-02,Bluetooth Speaker,Electronics,9,51.39,462.51,South
+2025-06-02,Laptop Stand,Office,4,40.63,162.52,North
+2025-06-02,Wireless Mouse,Electronics,13,28.4,369.2,South
+2025-06-02,Screen Protector,Accessories,32,9.28,296.96,East
+2025-06-02,Power Bank,Electronics,25,32.52,813.0,East
+2025-06-02,Keyboard,Electronics,9,73.56,662.04,South
+2025-06-02,Notebook Set,Office,22,16.44,361.68,North
+2025-06-03,Phone Case,Accessories,31,19.0,589.0,West
+2025-06-03,Bluetooth Speaker,Electronics,7,51.56,360.92,West
+2025-06-03,Wireless Mouse,Electronics,19,32.66,620.54,East
+2025-06-03,Screen Protector,Accessories,30,9.6,288.0,North
+2025-06-03,Webcam,Electronics,6,55.69,334.14,North
+2025-06-03,Keyboard,Electronics,6,64.36,386.16,North
+2025-06-03,Notebook Set,Office,33,14.55,480.15,East
+2025-06-04,Wireless Headphones,Electronics,200,82.91,16582.0,East
+2025-06-04,Bluetooth Speaker,Electronics,16,50.68,810.88,West
+2025-06-04,Laptop Stand,Office,5,41.52,207.6,East
+2025-06-04,Wireless Mouse,Electronics,29,31.11,902.19,North
+2025-06-04,Screen Protector,Accessories,27,10.55,284.85,West
+2025-06-04,Power Bank,Electronics,20,34.5,690.0,South
+2025-06-04,Desk Lamp,Office,12,27.17,326.04,West
+2025-06-04,Keyboard,Electronics,11,66.53,731.83,North
+2025-06-05,Wireless Headphones,Electronics,19,83.53,1587.07,North
+2025-06-05,Phone Case,Accessories,15,19.49,292.35,East
+2025-06-05,Bluetooth Speaker,Electronics,8,51.51,412.08,South
+2025-06-05,Laptop Stand,Office,4,36.13,144.52,West
+2025-06-05,Screen Protector,Accessories,67,9.41,630.47,North
+2025-06-05,Power Bank,Electronics,26,37.9,985.4,South
+2025-06-05,Desk Lamp,Office,6,27.38,164.28,West
+2025-06-06,Phone Case,Accessories,26,18.34,476.84,South
+2025-06-06,USB-C Cable,Accessories,41,12.77,523.57,North
+2025-06-06,Bluetooth Speaker,Electronics,15,47.81,717.15,North
+2025-06-06,Screen Protector,Accessories,64,9.98,638.72,West
+2025-06-06,Power Bank,Electronics,21,36.61,768.81,North
+2025-06-06,Desk Lamp,Office,11,22.84,251.24,South
+2025-06-06,Webcam,Electronics,7,59.68,417.76,West
+2025-06-06,Keyboard,Electronics,11,71.33,784.63,West
+2025-06-06,Notebook Set,Office,27,15.38,415.26,South
+2025-06-07,Bluetooth Speaker,Electronics,8,47.11,376.88,East
+2025-06-07,Laptop Stand,Office,8,37.29,298.32,West
+2025-06-07,Wireless Mouse,Electronics,27,29.43,794.61,East
+2025-06-07,Webcam,Electronics,4,60.21,240.84,North
+2025-06-07,Keyboard,Electronics,10,69.19,691.9,East
+2025-06-08,Wireless Headphones,Electronics,18,75.36,1356.48,North
+2025-06-08,Phone Case,Accessories,39,19.65,766.35,North
+2025-06-08,USB-C Cable,Accessories,43,12.86,552.98,South
+2025-06-08,Laptop Stand,Office,6,43.95,263.7,South
+2025-06-08,Wireless Mouse,Electronics,21,32.49,682.29,West
+2025-06-08,Screen Protector,Accessories,54,10.16,548.64,South
+2025-06-08,Desk Lamp,Office,7,27.06,189.42,South
+2025-06-08,Webcam,Electronics,4,61.57,246.28,South
+2025-06-08,Notebook Set,Office,14,15.36,215.04,South
+2025-06-09,Wireless Headphones,Electronics,12,74.62,895.44,South
+2025-06-09,Phone Case,Accessories,36,19.67,708.12,South
+2025-06-09,Bluetooth Speaker,Electronics,13,47.84,621.92,East
+2025-06-09,Wireless Mouse,Electronics,13,30.88,401.44,North
+2025-06-09,Screen Protector,Accessories,57,10.34,589.38,East
+2025-06-09,Power Bank,Electronics,10,33.81,338.1,North
+2025-06-09,Desk Lamp,Office,8,26.15,209.2,East
+2025-06-10,Wireless Headphones,Electronics,12,72.31,867.72,West
+2025-06-10,Phone Case,Accessories,25,19.34,483.5,North
+2025-06-10,USB-C Cable,Accessories,48,12.07,579.36,North
+2025-06-10,Bluetooth Speaker,Electronics,13,45.44,590.72,East
+2025-06-10,Laptop Stand,Office,6,42.15,252.9,West
+2025-06-10,Wireless Mouse,Electronics,28,29.43,824.04,East
+2025-06-10,Screen Protector,Accessories,62,10.8,669.6,North
+2025-06-10,Power Bank,Electronics,23,37.03,851.69,North
+2025-06-10,Desk Lamp,Office,13,23.94,311.22,West
+2025-06-10,Notebook Set,Office,26,15.43,401.18,North
+2025-06-11,Wireless Headphones,Electronics,9,74.28,668.52,North
+2025-06-11,Phone Case,Accessories,42,20.65,867.3,West
+2025-06-11,Bluetooth Speaker,Electronics,11,49.98,549.78,North
+2025-06-11,Laptop Stand,Office,8,42.11,336.88,South
+2025-06-11,Screen Protector,Accessories,30,10.73,321.9,East
+2025-06-11,Desk Lamp,Office,10,22.86,228.6,East
+2025-06-11,Keyboard,Electronics,11,76.69,843.59,South
+2025-06-11,Notebook Set,Office,31,13.89,430.59,South
+2025-06-12,Wireless Headphones,Electronics,10,78.68,786.8,West
+2025-06-12,Phone Case,Accessories,17,18.35,311.95,North
+2025-06-12,USB-C Cable,Accessories,23,13.56,311.88,North
+2025-06-12,Bluetooth Speaker,Electronics,10,52.88,528.8,North
+2025-06-12,Laptop Stand,Office,5,41.7,208.5,West
+2025-06-12,Screen Protector,Accessories,49,9.24,452.76,South
+2025-06-12,Desk Lamp,Office,12,23.02,276.24,South
+2025-06-12,Webcam,Electronics,6,60.15,360.9,West
+2025-06-12,Keyboard,Electronics,8,74.86,598.88,South
+2025-06-12,Notebook Set,Office,24,16.03,384.72,West
+2025-06-13,Wireless Headphones,Electronics,14,79.86,1118.04,East
+2025-06-13,USB-C Cable,Accessories,36,12.56,452.16,North
+2025-06-13,Laptop Stand,Office,6,37.34,224.04,South
+2025-06-13,Wireless Mouse,Electronics,10,28.93,289.3,South
+2025-06-13,Screen Protector,Accessories,38,9.88,375.44,West
+2025-06-13,Power Bank,Electronics,13,33.19,431.47,South
+2025-06-13,Desk Lamp,Office,7,26.04,182.28,North
+2025-06-13,Webcam,Electronics,6,58.06,348.36,East
+2025-06-13,Notebook Set,Office,13,16.05,208.65,North
+2025-06-14,Wireless Headphones,Electronics,14,83.55,1169.7,South
+2025-06-14,Phone Case,Accessories,18,18.7,336.6,South
+2025-06-14,Laptop Stand,Office,11,39.0,429.0,West
+2025-06-14,Wireless Mouse,Electronics,15,31.2,468.0,East
+2025-06-14,Screen Protector,Accessories,34,10.33,351.22,North
+2025-06-14,Webcam,Electronics,6,63.43,380.58,South
+2025-06-14,Keyboard,Electronics,5,66.98,334.9,South
+2025-06-14,Notebook Set,Office,25,13.72,343.0,North
+2025-06-15,Phone Case,Accessories,42,20.54,862.68,West
+2025-06-15,USB-C Cable,Accessories,31,11.97,371.07,West
+2025-06-15,Bluetooth Speaker,Electronics,8,50.11,400.88,South
+2025-06-15,Laptop Stand,Office,11,40.63,446.93,South
+2025-06-15,Webcam,Electronics,5,55.62,278.1,West
+2025-06-15,Notebook Set,Office,18,14.61,262.98,North
+2025-06-16,Wireless Headphones,Electronics,15,87.77,1316.55,North
+2025-06-16,Bluetooth Speaker,Electronics,6,53.35,320.1,South
+2025-06-16,Laptop Stand,Office,8,37.36,298.88,North
+2025-06-16,Wireless Mouse,Electronics,21,28.25,593.25,North
+2025-06-16,Screen Protector,Accessories,23,10.59,243.57,East
+2025-06-16,Keyboard,Electronics,10,73.95,739.5,West
+2025-06-16,Notebook Set,Office,16,14.22,227.52,West
+2025-06-17,USB-C Cable,Accessories,33,14.08,464.64,East
+2025-06-17,Laptop Stand,Office,6,38.69,232.14,South
+2025-06-17,Screen Protector,Accessories,28,9.79,274.12,South
+2025-06-17,Power Bank,Electronics,23,32.56,748.88,South
+2025-06-17,Desk Lamp,Office,6,26.48,158.88,East
+2025-06-17,Keyboard,Electronics,5,71.78,358.9,North
+2025-06-17,Notebook Set,Office,32,14.66,469.12,East
+2025-06-18,Wireless Headphones,Electronics,18,74.78,1346.04,South
+2025-06-18,Phone Case,Accessories,34,20.59,700.06,West
+2025-06-18,USB-C Cable,Accessories,52,11.94,620.88,South
+2025-06-18,Bluetooth Speaker,Electronics,15,51.06,765.9,North
+2025-06-18,Laptop Stand,Office,9,36.68,330.12,South
+2025-06-18,Screen Protector,Accessories,23,9.79,225.17,South
+2025-06-18,Power Bank,Electronics,20,37.34,746.8,North
+2025-06-18,Webcam,Electronics,3,65.69,197.07,West
+2025-06-18,Keyboard,Electronics,13,64.35,836.55,South
+2025-06-18,Notebook Set,Office,21,16.27,341.67,North
+2025-06-19,Wireless Headphones,Electronics,19,82.43,1566.17,North
+2025-06-19,Phone Case,Accessories,40,18.77,750.8,West
+2025-06-19,USB-C Cable,Accessories,46,13.54,622.84,North
+2025-06-19,Bluetooth Speaker,Electronics,16,49.31,788.96,West
+2025-06-19,Laptop Stand,Office,5,39.11,195.55,West
+2025-06-19,Wireless Mouse,Electronics,27,32.28,871.56,South
+2025-06-19,Power Bank,Electronics,14,36.97,517.58,South
+2025-06-19,Desk Lamp,Office,12,24.4,292.8,South
+2025-06-19,Webcam,Electronics,4,60.3,241.2,West
+2025-06-19,Keyboard,Electronics,9,72.38,651.42,North
+2025-06-20,Wireless Headphones,Electronics,21,81.22,1705.62,East
+2025-06-20,USB-C Cable,Accessories,36,13.11,471.96,South
+2025-06-20,Wireless Mouse,Electronics,18,29.79,536.22,North
+2025-06-20,Power Bank,Electronics,18,35.05,630.9,North
+2025-06-20,Desk Lamp,Office,6,23.44,140.64,South
+2025-06-20,Notebook Set,Office,28,15.96,446.88,South
+2025-06-21,USB-C Cable,Accessories,40,13.53,541.2,North
+2025-06-21,Bluetooth Speaker,Electronics,6,50.68,304.08,West
+2025-06-21,Laptop Stand,Office,8,39.66,317.28,West
+2025-06-21,Wireless Mouse,Electronics,11,29.78,327.58,North
+2025-06-21,Screen Protector,Accessories,42,10.15,426.3,South
+2025-06-21,Desk Lamp,Office,13,25.81,335.53,South
+2025-06-21,Webcam,Electronics,6,56.5,339.0,North
+2025-06-21,Keyboard,Electronics,11,76.54,841.94,West
+2025-06-21,Notebook Set,Office,25,13.57,339.25,North
+2025-06-22,Wireless Headphones,Electronics,19,80.91,1537.29,East
+2025-06-22,USB-C Cable,Accessories,21,12.77,268.17,East
+2025-06-22,Bluetooth Speaker,Electronics,17,47.77,812.09,South
+2025-06-22,Laptop Stand,Office,7,42.84,299.88,East
+2025-06-22,Wireless Mouse,Electronics,14,32.23,451.22,North
+2025-06-22,Screen Protector,Accessories,37,9.62,355.94,South
+2025-06-22,Power Bank,Electronics,9,33.96,305.64,West
+2025-06-22,Desk Lamp,Office,6,24.61,147.66,South
+2025-06-22,Webcam,Electronics,5,60.05,300.25,West
+2025-06-22,Keyboard,Electronics,5,66.66,333.3,South
+2025-06-23,Wireless Headphones,Electronics,22,76.28,1678.16,East
+2025-06-23,Phone Case,Accessories,43,21.52,925.36,South
+2025-06-23,USB-C Cable,Accessories,38,13.13,498.94,North
+2025-06-23,Laptop Stand,Office,6,36.16,216.96,East
+2025-06-23,Screen Protector,Accessories,46,10.93,502.78,South
+2025-06-23,Desk Lamp,Office,13,27.47,357.11,South
+2025-06-23,Webcam,Electronics,6,56.29,337.74,East
+2025-06-23,Keyboard,Electronics,4,67.85,271.4,North
+2025-06-23,Notebook Set,Office,36,14.29,514.44,West
+2025-06-24,Phone Case,Accessories,17,21.73,369.41,East
+2025-06-24,USB-C Cable,Accessories,48,13.37,641.76,West
+2025-06-24,Bluetooth Speaker,Electronics,17,50.16,852.72,North
+2025-06-24,Laptop Stand,Office,5,40.73,203.65,South
+2025-06-24,Wireless Mouse,Electronics,10,28.16,281.6,South
+2025-06-24,Screen Protector,Accessories,39,9.84,383.76,East
+2025-06-24,Power Bank,Electronics,14,34.37,481.18,North
+2025-06-24,Desk Lamp,Office,6,24.35,146.1,North
+2025-06-24,Keyboard,Electronics,6,64.11,384.66,South
+2025-06-25,Phone Case,Accessories,38,21.65,822.7,West
+2025-06-25,USB-C Cable,Accessories,20,13.72,274.4,West
+2025-06-25,Bluetooth Speaker,Electronics,12,47.32,567.84,West
+2025-06-25,Laptop Stand,Office,11,37.24,409.64,North
+2025-06-25,Screen Protector,Accessories,30,9.12,273.6,West
+2025-06-25,Desk Lamp,Office,8,26.7,213.6,East
+2025-06-25,Webcam,Electronics,6,54.1,324.6,North
+2025-06-25,Notebook Set,Office,34,14.87,505.58,East
+2025-06-26,Phone Case,Accessories,44,19.06,838.64,South
+2025-06-26,Bluetooth Speaker,Electronics,12,46.44,557.28,South
+2025-06-26,Laptop Stand,Office,8,40.68,325.44,North
+2025-06-26,Wireless Mouse,Electronics,24,29.19,700.56,North
+2025-06-26,Screen Protector,Accessories,65,9.47,615.55,South
+2025-06-26,Desk Lamp,Office,6,24.27,145.62,East
+2025-06-26,Webcam,Electronics,4,59.03,236.12,East
+2025-06-27,Wireless Headphones,Electronics,10,83.3,833.0,West
+2025-06-27,USB-C Cable,Accessories,38,13.98,531.24,West
+2025-06-27,Bluetooth Speaker,Electronics,7,51.68,361.76,South
+2025-06-27,Laptop Stand,Office,4,37.52,150.08,East
+2025-06-27,Wireless Mouse,Electronics,16,29.29,468.64,West
+2025-06-27,Screen Protector,Accessories,34,9.23,313.82,North
+2025-06-27,Power Bank,Electronics,19,35.22,669.18,East
+2025-06-27,Desk Lamp,Office,13,25.11,326.43,North
+2025-06-27,Keyboard,Electronics,12,67.31,807.72,West
+2025-06-27,Notebook Set,Office,18,13.6,244.8,North
+2025-06-28,Wireless Headphones,Electronics,12,77.93,935.16,South
+2025-06-28,Phone Case,Accessories,18,19.62,353.16,South
+2025-06-28,USB-C Cable,Accessories,48,12.14,582.72,West
+2025-06-28,Bluetooth Speaker,Electronics,12,51.98,623.76,South
+2025-06-28,Wireless Mouse,Electronics,20,30.83,616.6,South
+2025-06-28,Screen Protector,Accessories,48,9.16,439.68,South
+2025-06-28,Power Bank,Electronics,23,34.95,803.85,West
+2025-06-28,Webcam,Electronics,6,64.74,388.44,East
+2025-06-28,Keyboard,Electronics,5,75.1,375.5,South
+2025-06-29,Phone Case,Accessories,22,19.27,423.94,North
+2025-06-29,Bluetooth Speaker,Electronics,11,48.46,533.06,East
+2025-06-29,Laptop Stand,Office,10,38.65,386.5,East
+2025-06-29,Power Bank,Electronics,23,33.21,763.83,North
+2025-06-29,Webcam,Electronics,5,57.03,285.15,East
+2025-06-29,Keyboard,Electronics,10,66.26,662.6,West
+2025-06-29,Notebook Set,Office,29,13.54,392.66,South
+2025-06-30,Wireless Headphones,Electronics,18,73.15,1316.7,East
+2025-06-30,USB-C Cable,Accessories,47,13.15,618.05,East
+2025-06-30,Bluetooth Speaker,Electronics,10,53.08,530.8,North
+2025-06-30,Laptop Stand,Office,9,39.02,351.18,South
+2025-06-30,Wireless Mouse,Electronics,26,32.57,846.82,South
+2025-06-30,Screen Protector,Accessories,63,9.19,578.97,North
+2025-06-30,Power Bank,Electronics,23,37.49,862.27,South
+2025-06-30,Webcam,Electronics,3,57.48,172.44,East
+2025-06-30,Notebook Set,Office,23,15.28,351.44,North
+2025-07-01,Wireless Headphones,Electronics,10,87.37,873.7,West
+2025-07-01,Phone Case,Accessories,21,21.72,456.12,South
+2025-07-01,Bluetooth Speaker,Electronics,17,45.03,765.51,North
+2025-07-01,Laptop Stand,Office,5,36.9,184.5,East
+2025-07-01,Wireless Mouse,Electronics,19,32.96,626.24,East
+2025-07-01,Power Bank,Electronics,16,33.5,536.0,East
+2025-07-01,Desk Lamp,Office,5,22.5,112.5,South
+2025-07-01,Webcam,Electronics,4,65.98,263.92,North
+2025-07-02,USB-C Cable,Accessories,51,14.22,725.22,North
+2025-07-02,Bluetooth Speaker,Electronics,9,46.12,415.08,West
+2025-07-02,Laptop Stand,Office,5,39.43,197.15,North
+2025-07-02,Wireless Mouse,Electronics,19,32.92,625.48,North
+2025-07-02,Screen Protector,Accessories,44,10.0,440.0,South
+2025-07-02,Power Bank,Electronics,24,38.06,913.44,West
+2025-07-02,Desk Lamp,Office,10,26.62,266.2,South
+2025-07-02,Webcam,Electronics,3,59.6,178.8,North
+2025-07-02,Keyboard,Electronics,7,64.36,450.52,South
+2025-07-03,USB-C Cable,Accessories,33,13.77,454.41,East
+2025-07-03,Bluetooth Speaker,Electronics,10,48.16,481.6,East
+2025-07-03,Screen Protector,Accessories,43,9.25,397.75,North
+2025-07-03,Power Bank,Electronics,24,36.46,875.04,South
+2025-07-03,Desk Lamp,Office,14,27.32,382.48,North
+2025-07-03,Webcam,Electronics,3,56.55,169.65,East
+2025-07-03,Keyboard,Electronics,12,64.24,770.88,South
+2025-07-03,Notebook Set,Office,35,13.96,488.6,South
+2025-07-04,Wireless Headphones,Electronics,11,87.48,962.28,West
+2025-07-04,Laptop Stand,Office,5,39.32,196.6,South
+2025-07-04,Wireless Mouse,Electronics,11,28.35,311.85,West
+2025-07-04,Screen Protector,Accessories,57,9.03,514.71,South
+2025-07-04,Power Bank,Electronics,13,37.86,492.18,East
+2025-07-04,Webcam,Electronics,6,54.92,329.52,South
+2025-07-04,Keyboard,Electronics,8,65.51,524.08,East
+2025-07-04,Notebook Set,Office,25,13.74,343.5,East
+2025-07-05,Wireless Headphones,Electronics,24,78.94,1894.56,North
+2025-07-05,USB-C Cable,Accessories,27,13.68,369.36,North
+2025-07-05,Bluetooth Speaker,Electronics,11,54.42,598.62,West
+2025-07-05,Wireless Mouse,Electronics,12,30.05,360.6,South
+2025-07-05,Screen Protector,Accessories,64,9.76,624.64,South
+2025-07-05,Power Bank,Electronics,23,31.52,724.96,South
+2025-07-05,Desk Lamp,Office,7,23.49,164.43,North
+2025-07-05,Webcam,Electronics,3,54.62,163.86,North
+2025-07-05,Keyboard,Electronics,12,69.75,837.0,South
+2025-07-05,Notebook Set,Office,17,14.14,240.38,North
+2025-07-06,Phone Case,Accessories,42,20.45,858.9,South
+2025-07-06,USB-C Cable,Accessories,19,12.24,232.56,East
+2025-07-06,Bluetooth Speaker,Electronics,6,49.02,294.12,East
+2025-07-06,Laptop Stand,Office,9,38.55,346.95,North
+2025-07-06,Wireless Mouse,Electronics,12,32.67,392.04,South
+2025-07-06,Screen Protector,Accessories,56,9.99,559.44,South
+2025-07-06,Power Bank,Electronics,24,36.2,868.8,North
+2025-07-06,Desk Lamp,Office,12,23.17,278.04,North
+2025-07-06,Webcam,Electronics,2,63.02,126.04,South
+2025-07-06,Keyboard,Electronics,4,74.46,297.84,South
+2025-07-06,Notebook Set,Office,29,15.6,452.4,West
+2025-07-07,Wireless Headphones,Electronics,16,87.25,1396.0,East
+2025-07-07,Bluetooth Speaker,Electronics,10,51.59,515.9,South
+2025-07-07,Wireless Mouse,Electronics,11,29.47,324.17,South
+2025-07-07,Screen Protector,Accessories,56,10.65,596.4,East
+2025-07-07,Webcam,Electronics,6,64.01,384.06,West
+2025-07-07,Keyboard,Electronics,8,69.58,556.64,North
+2025-07-08,Wireless Headphones,Electronics,13,75.83,985.79,North
+2025-07-08,Phone Case,Accessories,32,20.66,661.12,West
+2025-07-08,USB-C Cable,Accessories,40,11.79,471.6,North
+2025-07-08,Bluetooth Speaker,Electronics,15,48.5,727.5,South
+2025-07-08,Laptop Stand,Office,4,37.92,151.68,North
+2025-07-08,Screen Protector,Accessories,35,9.37,327.95,South
+2025-07-08,Power Bank,Electronics,13,32.04,416.52,South
+2025-07-08,Desk Lamp,Office,10,26.57,265.7,West
+2025-07-08,Webcam,Electronics,4,59.91,239.64,North
+2025-07-08,Keyboard,Electronics,7,65.12,455.84,East
+2025-07-09,Wireless Headphones,Electronics,19,79.12,1503.28,West
+2025-07-09,USB-C Cable,Accessories,37,13.42,496.54,East
+2025-07-09,Bluetooth Speaker,Electronics,13,46.5,604.5,West
+2025-07-09,Laptop Stand,Office,9,36.15,325.35,North
+2025-07-09,Wireless Mouse,Electronics,27,30.15,814.05,West
+2025-07-09,Screen Protector,Accessories,44,9.23,406.12,West
+2025-07-09,Desk Lamp,Office,14,27.21,380.94,South
+2025-07-09,Webcam,Electronics,5,55.56,277.8,East
+2025-07-09,Notebook Set,Office,16,14.04,224.64,South
+2025-07-10,Wireless Headphones,Electronics,20,73.18,1463.6,South
+2025-07-10,USB-C Cable,Accessories,41,13.14,538.74,East
+2025-07-10,Bluetooth Speaker,Electronics,15,49.32,739.8,South
+2025-07-10,Laptop Stand,Office,4,41.22,164.88,East
+2025-07-10,Wireless Mouse,Electronics,11,27.54,302.94,West
+2025-07-10,Screen Protector,Accessories,28,9.7,271.6,East
+2025-07-10,Power Bank,Electronics,9,33.15,298.35,West
+2025-07-10,Keyboard,Electronics,10,66.65,666.5,North
+2025-07-11,Phone Case,Accessories,27,20.87,563.49,West
+2025-07-11,USB-C Cable,Accessories,25,13.03,325.75,West
+2025-07-11,Bluetooth Speaker,Electronics,6,51.92,311.52,East
+2025-07-11,Laptop Stand,Office,4,40.26,161.04,West
+2025-07-11,Wireless Mouse,Electronics,19,27.41,520.79,North
+2025-07-11,Screen Protector,Accessories,65,9.56,621.4,South
+2025-07-11,Power Bank,Electronics,11,34.9,383.9,East
+2025-07-11,Desk Lamp,Office,11,25.83,284.13,North
+2025-07-11,Webcam,Electronics,2,63.29,126.58,North
+2025-07-11,Keyboard,Electronics,10,73.54,735.4,North
+2025-07-11,Notebook Set,Office,27,15.8,426.6,North
+2025-07-12,Wireless Headphones,Electronics,24,76.32,1831.68,West
+2025-07-12,Phone Case,Accessories,28,19.25,539.0,East
+2025-07-12,USB-C Cable,Accessories,32,13.33,426.56,East
+2025-07-12,Bluetooth Speaker,Electronics,6,53.59,321.54,South
+2025-07-12,Screen Protector,Accessories,62,9.75,604.5,East
+2025-07-12,Desk Lamp,Office,14,26.34,368.76,North
+2025-07-12,Webcam,Electronics,3,58.9,176.7,East
+2025-07-12,Keyboard,Electronics,6,75.9,455.4,East
+2025-07-12,Notebook Set,Office,25,15.31,382.75,East
+2025-07-13,Wireless Headphones,Electronics,17,74.81,1271.77,West
+2025-07-13,Phone Case,Accessories,18,21.05,378.9,West
+2025-07-13,USB-C Cable,Accessories,31,12.04,373.24,South
+2025-07-13,Laptop Stand,Office,5,38.01,190.05,South
+2025-07-13,Wireless Mouse,Electronics,25,29.73,743.25,North
+2025-07-13,Power Bank,Electronics,11,35.77,393.47,East
+2025-07-13,Desk Lamp,Office,14,27.05,378.7,West
+2025-07-13,Notebook Set,Office,34,16.41,557.94,West
+2025-07-14,Phone Case,Accessories,27,18.03,486.81,South
+2025-07-14,Bluetooth Speaker,Electronics,10,49.72,497.2,East
+2025-07-14,Laptop Stand,Office,9,39.46,355.14,West
+2025-07-14,Wireless Mouse,Electronics,12,30.18,362.16,North
+2025-07-14,Power Bank,Electronics,24,32.63,783.12,West
+2025-07-14,Desk Lamp,Office,14,23.82,333.48,West
+2025-07-14,Webcam,Electronics,4,54.6,218.4,North
+2025-07-14,Keyboard,Electronics,8,66.58,532.64,North
+2025-07-14,Notebook Set,Office,12,15.91,190.92,North
+2025-07-15,Phone Case,Accessories,29,19.41,562.89,South
+2025-07-15,USB-C Cable,Accessories,41,11.75,481.75,South
+2025-07-15,Bluetooth Speaker,Electronics,9,45.94,413.46,East
+2025-07-15,Laptop Stand,Office,8,36.42,291.36,North
+2025-07-15,Wireless Mouse,Electronics,14,30.01,420.14,South
+2025-07-15,Power Bank,Electronics,24,36.55,877.2,North
+2025-07-15,Webcam,Electronics,2,65.73,131.46,North
+2025-07-15,Keyboard,Electronics,7,71.94,503.58,North
+2025-07-15,Notebook Set,Office,19,16.15,306.85,North
+2025-07-16,Wireless Headphones,Electronics,23,76.75,1765.25,East
+2025-07-16,USB-C Cable,Accessories,37,12.48,461.76,South
+2025-07-16,Laptop Stand,Office,4,41.23,164.92,South
+2025-07-16,Wireless Mouse,Electronics,14,30.18,422.52,South
+2025-07-16,Screen Protector,Accessories,25,9.38,234.5,North
+2025-07-16,Power Bank,Electronics,12,35.5,426.0,North
+2025-07-16,Desk Lamp,Office,14,25.08,351.12,South
+2025-07-17,Wireless Headphones,Electronics,18,87.09,1567.62,South
+2025-07-17,Phone Case,Accessories,29,20.04,581.16,North
+2025-07-17,USB-C Cable,Accessories,35,13.53,473.55,West
+2025-07-17,Bluetooth Speaker,Electronics,6,49.95,299.7,South
+2025-07-17,Wireless Mouse,Electronics,29,32.66,947.14,North
+2025-07-17,Screen Protector,Accessories,54,9.9,534.6,South
+2025-07-17,Power Bank,Electronics,17,34.1,579.7,South
+2025-07-17,Desk Lamp,Office,6,26.99,161.94,East
+2025-07-17,Webcam,Electronics,2,61.24,122.48,North
+2025-07-17,Notebook Set,Office,22,15.26,335.72,North
+2025-07-18,Wireless Headphones,Electronics,12,87.78,1053.36,East
+2025-07-18,Phone Case,Accessories,24,18.37,440.88,West
+2025-07-18,Bluetooth Speaker,Electronics,13,45.24,588.12,West
+2025-07-18,Laptop Stand,Office,6,36.48,218.88,North
+2025-07-18,Wireless Mouse,Electronics,23,28.49,655.27,North
+2025-07-18,Screen Protector,Accessories,48,9.8,470.4,South
+2025-07-18,Desk Lamp,Office,14,23.37,327.18,East
+2025-07-18,Webcam,Electronics,4,57.04,228.16,West
+2025-07-18,Keyboard,Electronics,90,67.26,6053.4,North
+2025-07-19,Wireless Headphones,Electronics,12,83.03,996.36,South
+2025-07-19,Phone Case,Accessories,29,19.46,564.34,North
+2025-07-19,USB-C Cable,Accessories,41,13.42,550.22,North
+2025-07-19,Bluetooth Speaker,Electronics,8,47.09,376.72,North
+2025-07-19,Laptop Stand,Office,5,37.81,189.05,North
+2025-07-19,Screen Protector,Accessories,25,9.26,231.5,East
+2025-07-19,Power Bank,Electronics,21,35.39,743.19,North
+2025-07-19,Desk Lamp,Office,6,25.17,151.02,South
+2025-07-19,Keyboard,Electronics,12,76.97,923.64,East
+2025-07-19,Notebook Set,Office,18,14.26,256.68,South
+2025-07-20,Wireless Headphones,Electronics,25,77.88,1947.0,South
+2025-07-20,Phone Case,Accessories,40,20.59,823.6,East
+2025-07-20,USB-C Cable,Accessories,47,11.79,554.13,West
+2025-07-20,Bluetooth Speaker,Electronics,10,49.96,499.6,East
+2025-07-20,Wireless Mouse,Electronics,18,29.05,522.9,North
+2025-07-20,Screen Protector,Accessories,44,9.8,431.2,East
+2025-07-20,Power Bank,Electronics,26,35.68,927.68,West
+2025-07-20,Webcam,Electronics,3,60.82,182.46,West
+2025-07-21,Wireless Headphones,Electronics,12,82.69,992.28,South
+2025-07-21,Phone Case,Accessories,18,18.51,333.18,East
+2025-07-21,USB-C Cable,Accessories,32,12.54,401.28,East
+2025-07-21,Bluetooth Speaker,Electronics,16,54.94,879.04,North
+2025-07-21,Wireless Mouse,Electronics,26,28.7,746.2,North
+2025-07-21,Screen Protector,Accessories,25,9.73,243.25,South
+2025-07-21,Power Bank,Electronics,22,33.97,747.34,East
+2025-07-21,Desk Lamp,Office,10,25.69,256.9,North
+2025-07-22,Wireless Headphones,Electronics,24,83.21,1997.04,East
+2025-07-22,Phone Case,Accessories,27,19.56,528.12,North
+2025-07-22,Bluetooth Speaker,Electronics,17,46.66,793.22,North
+2025-07-22,Laptop Stand,Office,6,42.63,255.78,East
+2025-07-22,Wireless Mouse,Electronics,18,30.96,557.28,South
+2025-07-22,Screen Protector,Accessories,42,9.37,393.54,South
+2025-07-22,Power Bank,Electronics,23,36.64,842.72,East
+2025-07-22,Webcam,Electronics,4,64.72,258.88,West
+2025-07-22,Notebook Set,Office,13,14.59,189.67,South
+2025-07-23,Phone Case,Accessories,15,18.67,280.05,East
+2025-07-23,USB-C Cable,Accessories,50,13.52,676.0,East
+2025-07-23,Bluetooth Speaker,Electronics,6,46.19,277.14,South
+2025-07-23,Laptop Stand,Office,7,41.83,292.81,South
+2025-07-23,Power Bank,Electronics,22,37.75,830.5,North
+2025-07-23,Desk Lamp,Office,7,22.55,157.85,West
+2025-07-23,Keyboard,Electronics,6,71.11,426.66,West
+2025-07-23,Notebook Set,Office,29,14.05,407.45,East
+2025-07-24,Wireless Headphones,Electronics,12,77.0,924.0,North
+2025-07-24,Phone Case,Accessories,26,18.97,493.22,South
+2025-07-24,USB-C Cable,Accessories,44,14.21,625.24,South
+2025-07-24,Bluetooth Speaker,Electronics,12,46.56,558.72,East
+2025-07-24,Laptop Stand,Office,9,43.11,387.99,South
+2025-07-24,Wireless Mouse,Electronics,25,29.92,748.0,East
+2025-07-24,Screen Protector,Accessories,66,10.32,681.12,North
+2025-07-24,Power Bank,Electronics,20,31.89,637.8,North
+2025-07-24,Desk Lamp,Office,8,24.68,197.44,North
+2025-07-24,Keyboard,Electronics,9,65.79,592.11,South
+2025-07-24,Notebook Set,Office,14,13.93,195.02,North
+2025-07-25,Wireless Headphones,Electronics,22,84.04,1848.88,East
+2025-07-25,Phone Case,Accessories,29,20.56,596.24,North
+2025-07-25,USB-C Cable,Accessories,45,12.99,584.55,South
+2025-07-25,Laptop Stand,Office,9,42.96,386.64,South
+2025-07-25,Wireless Mouse,Electronics,21,32.29,678.09,South
+2025-07-25,Screen Protector,Accessories,48,10.49,503.52,West
+2025-07-25,Webcam,Electronics,4,61.37,245.48,South
+2025-07-25,Notebook Set,Office,31,14.43,447.33,South
+2025-07-26,Wireless Headphones,Electronics,10,86.09,860.9,North
+2025-07-26,Phone Case,Accessories,43,20.7,890.1,South
+2025-07-26,USB-C Cable,Accessories,30,12.41,372.3,West
+2025-07-26,Bluetooth Speaker,Electronics,13,48.54,631.02,North
+2025-07-26,Wireless Mouse,Electronics,25,30.21,755.25,West
+2025-07-26,Power Bank,Electronics,13,34.62,450.06,North
+2025-07-26,Desk Lamp,Office,7,27.1,189.7,South
+2025-07-26,Webcam,Electronics,4,65.16,260.64,North
+2025-07-26,Keyboard,Electronics,12,64.95,779.4,North
+2025-07-26,Notebook Set,Office,35,15.12,529.2,South
+2025-07-27,USB-C Cable,Accessories,21,13.34,280.14,West
+2025-07-27,Laptop Stand,Office,4,40.82,163.28,North
+2025-07-27,Wireless Mouse,Electronics,16,29.77,476.32,East
+2025-07-27,Power Bank,Electronics,14,36.13,505.82,North
+2025-07-27,Desk Lamp,Office,6,24.62,147.72,North
+2025-07-27,Webcam,Electronics,3,64.57,193.71,West
+2025-07-27,Notebook Set,Office,14,14.66,205.24,East
+2025-07-28,Wireless Headphones,Electronics,20,76.51,1530.2,South
+2025-07-28,USB-C Cable,Accessories,35,13.53,473.55,North
+2025-07-28,Bluetooth Speaker,Electronics,10,45.25,452.5,South
+2025-07-28,Laptop Stand,Office,11,40.14,441.54,South
+2025-07-28,Screen Protector,Accessories,23,10.88,250.24,South
+2025-07-28,Power Bank,Electronics,25,31.66,791.5,East
+2025-07-28,Desk Lamp,Office,7,24.63,172.41,East
+2025-07-28,Webcam,Electronics,2,65.23,130.46,North
+2025-07-29,USB-C Cable,Accessories,29,11.99,347.71,North
+2025-07-29,Bluetooth Speaker,Electronics,16,47.56,760.96,North
+2025-07-29,Power Bank,Electronics,13,35.1,456.3,North
+2025-07-29,Desk Lamp,Office,14,25.32,354.48,South
+2025-07-29,Webcam,Electronics,3,62.72,188.16,South
+2025-07-29,Keyboard,Electronics,12,67.69,812.28,East
+2025-07-30,Phone Case,Accessories,21,21.5,451.5,North
+2025-07-30,USB-C Cable,Accessories,39,13.49,526.11,South
+2025-07-30,Bluetooth Speaker,Electronics,12,49.39,592.68,North
+2025-07-30,Laptop Stand,Office,10,40.91,409.1,West
+2025-07-30,Wireless Mouse,Electronics,12,27.07,324.84,South
+2025-07-30,Screen Protector,Accessories,58,9.58,555.64,South
+2025-07-30,Power Bank,Electronics,16,33.11,529.76,North
+2025-07-31,Wireless Headphones,Electronics,14,87.56,1225.84,North
+2025-07-31,Phone Case,Accessories,25,18.02,450.5,West
+2025-07-31,Bluetooth Speaker,Electronics,16,50.35,805.6,South
+2025-07-31,Laptop Stand,Office,7,41.17,288.19,North
+2025-07-31,Screen Protector,Accessories,47,10.76,505.72,North
+2025-07-31,Power Bank,Electronics,12,34.25,411.0,South
+2025-07-31,Desk Lamp,Office,6,25.01,150.06,West
+2025-07-31,Webcam,Electronics,4,64.17,256.68,East
+2025-07-31,Keyboard,Electronics,6,75.38,452.28,East
+2025-08-01,Phone Case,Accessories,16,21.96,351.36,North
+2025-08-01,USB-C Cable,Accessories,31,12.97,402.07,West
+2025-08-01,Bluetooth Speaker,Electronics,12,45.48,545.76,North
+2025-08-01,Wireless Mouse,Electronics,12,27.67,332.04,South
+2025-08-01,Screen Protector,Accessories,54,9.35,504.9,North
+2025-08-01,Power Bank,Electronics,13,37.46,486.98,West
+2025-08-01,Desk Lamp,Office,10,26.6,266.0,East
+2025-08-01,Webcam,Electronics,3,57.14,171.42,North
+2025-08-01,Keyboard,Electronics,9,68.02,612.18,South
+2025-08-01,Notebook Set,Office,42,16.19,679.98,North
+2025-08-02,Wireless Headphones,Electronics,11,81.99,901.89,East
+2025-08-02,Phone Case,Accessories,23,21.79,501.17,North
+2025-08-02,USB-C Cable,Accessories,19,14.01,266.19,South
+2025-08-02,Bluetooth Speaker,Electronics,15,46.49,697.35,North
+2025-08-02,Laptop Stand,Office,9,37.02,333.18,South
+2025-08-02,Wireless Mouse,Electronics,10,28.64,286.4,North
+2025-08-02,Screen Protector,Accessories,62,10.95,678.9,East
+2025-08-02,Desk Lamp,Office,15,23.26,348.9,West
+2025-08-02,Webcam,Electronics,4,62.5,250.0,North
+2025-08-02,Notebook Set,Office,26,14.81,385.06,East
+2025-08-03,Wireless Headphones,Electronics,17,84.66,1439.22,West
+2025-08-03,Phone Case,Accessories,21,19.09,400.89,South
+2025-08-03,Wireless Mouse,Electronics,28,27.62,773.36,East
+2025-08-03,Screen Protector,Accessories,26,10.83,281.58,East
+2025-08-03,Power Bank,Electronics,22,33.29,732.38,East
+2025-08-03,Webcam,Electronics,3,61.63,184.89,North
+2025-08-03,Keyboard,Electronics,11,69.62,765.82,East
+2025-08-03,Notebook Set,Office,52,14.98,778.96,West
+2025-08-04,Wireless Headphones,Electronics,16,75.67,1210.72,South
+2025-08-04,Phone Case,Accessories,21,20.09,421.89,West
+2025-08-04,USB-C Cable,Accessories,40,12.33,493.2,North
+2025-08-04,Bluetooth Speaker,Electronics,7,47.7,333.9,West
+2025-08-04,Laptop Stand,Office,17,43.83,745.11,North
+2025-08-04,Screen Protector,Accessories,42,9.19,385.98,East
+2025-08-04,Desk Lamp,Office,9,23.13,208.17,North
+2025-08-04,Webcam,Electronics,4,63.61,254.44,South
+2025-08-04,Keyboard,Electronics,6,69.72,418.32,East
+2025-08-04,Notebook Set,Office,28,16.34,457.52,North
+2025-08-05,Wireless Headphones,Electronics,9,79.69,717.21,South
+2025-08-05,Phone Case,Accessories,32,19.73,631.36,South
+2025-08-05,USB-C Cable,Accessories,42,13.86,582.12,North
+2025-08-05,Bluetooth Speaker,Electronics,13,48.69,632.97,South
+2025-08-05,Laptop Stand,Office,7,37.7,263.9,North
+2025-08-05,Wireless Mouse,Electronics,23,32.69,751.87,East
+2025-08-05,Power Bank,Electronics,24,34.59,830.16,East
+2025-08-05,Desk Lamp,Office,15,27.02,405.3,North
+2025-08-05,Keyboard,Electronics,9,74.42,669.78,West
+2025-08-05,Notebook Set,Office,20,15.89,317.8,East
+2025-08-06,Phone Case,Accessories,37,21.07,779.59,South
+2025-08-06,USB-C Cable,Accessories,52,13.41,697.32,South
+2025-08-06,Laptop Stand,Office,8,37.36,298.88,South
+2025-08-06,Screen Protector,Accessories,27,10.3,278.1,North
+2025-08-06,Webcam,Electronics,5,56.79,283.95,East
+2025-08-06,Keyboard,Electronics,13,68.22,886.86,East
+2025-08-07,Wireless Headphones,Electronics,26,80.61,2095.86,North
+2025-08-07,USB-C Cable,Accessories,40,12.66,506.4,West
+2025-08-07,Laptop Stand,Office,17,38.56,655.52,North
+2025-08-07,Wireless Mouse,Electronics,26,27.61,717.86,West
+2025-08-07,Screen Protector,Accessories,300,10.41,3123.0,South
+2025-08-07,Power Bank,Electronics,23,38.23,879.29,North
+2025-08-07,Desk Lamp,Office,14,24.37,341.18,South
+2025-08-07,Keyboard,Electronics,8,65.72,525.76,West
+2025-08-07,Notebook Set,Office,36,14.39,518.04,East
+2025-08-08,USB-C Cable,Accessories,19,11.94,226.86,North
+2025-08-08,Wireless Mouse,Electronics,15,27.89,418.35,North
+2025-08-08,Screen Protector,Accessories,45,9.72,437.4,West
+2025-08-08,Power Bank,Electronics,15,32.94,494.1,South
+2025-08-08,Desk Lamp,Office,17,23.94,406.98,East
+2025-08-08,Notebook Set,Office,53,14.62,774.86,East
+2025-08-09,Bluetooth Speaker,Electronics,7,46.73,327.11,East
+2025-08-09,Wireless Mouse,Electronics,17,30.03,510.51,East
+2025-08-09,Screen Protector,Accessories,35,10.46,366.1,West
+2025-08-09,Webcam,Electronics,3,60.61,181.83,South
+2025-08-09,Notebook Set,Office,38,14.1,535.8,South
+2025-08-10,Wireless Headphones,Electronics,19,73.54,1397.26,South
+2025-08-10,Phone Case,Accessories,38,20.51,779.38,North
+2025-08-10,USB-C Cable,Accessories,41,11.75,481.75,South
+2025-08-10,Bluetooth Speaker,Electronics,14,47.15,660.1,East
+2025-08-10,Laptop Stand,Office,15,43.36,650.4,West
+2025-08-10,Screen Protector,Accessories,41,10.71,439.11,North
+2025-08-10,Power Bank,Electronics,20,37.04,740.8,North
+2025-08-10,Webcam,Electronics,2,63.79,127.58,North
+2025-08-10,Keyboard,Electronics,7,71.55,500.85,East
+2025-08-10,Notebook Set,Office,22,13.7,301.4,East
+2025-08-11,Wireless Headphones,Electronics,22,80.15,1763.3,South
+2025-08-11,Phone Case,Accessories,15,19.33,289.95,West
+2025-08-11,USB-C Cable,Accessories,29,13.22,383.38,West
+2025-08-11,Bluetooth Speaker,Electronics,6,45.74,274.44,South
+2025-08-11,Laptop Stand,Office,14,36.56,511.84,North
+2025-08-11,Wireless Mouse,Electronics,26,30.7,798.2,East
+2025-08-11,Power Bank,Electronics,23,33.3,765.9,East
+2025-08-12,Wireless Headphones,Electronics,16,80.13,1282.08,South
+2025-08-12,Bluetooth Speaker,Electronics,10,47.98,479.8,West
+2025-08-12,Laptop Stand,Office,16,39.95,639.2,North
+2025-08-12,Wireless Mouse,Electronics,14,29.64,414.96,North
+2025-08-12,Screen Protector,Accessories,28,10.8,302.4,West
+2025-08-12,Power Bank,Electronics,22,35.83,788.26,West
+2025-08-12,Desk Lamp,Office,19,24.8,471.2,West
+2025-08-12,Webcam,Electronics,3,63.41,190.23,West
+2025-08-12,Keyboard,Electronics,6,69.54,417.24,West
+2025-08-12,Notebook Set,Office,49,13.59,665.91,South
+2025-08-13,Wireless Headphones,Electronics,24,72.78,1746.72,West
+2025-08-13,Phone Case,Accessories,20,19.26,385.2,North
+2025-08-13,USB-C Cable,Accessories,19,12.1,229.9,West
+2025-08-13,Wireless Mouse,Electronics,20,31.57,631.4,South
+2025-08-13,Screen Protector,Accessories,50,9.22,461.0,North
+2025-08-13,Power Bank,Electronics,16,36.69,587.04,East
+2025-08-13,Desk Lamp,Office,10,23.62,236.2,East
+2025-08-13,Webcam,Electronics,3,56.04,168.12,East
+2025-08-13,Keyboard,Electronics,6,69.87,419.22,West
+2025-08-13,Notebook Set,Office,41,13.76,564.16,East
+2025-08-14,Phone Case,Accessories,36,21.14,761.04,East
+2025-08-14,USB-C Cable,Accessories,33,13.92,459.36,West
+2025-08-14,Bluetooth Speaker,Electronics,17,50.82,863.94,South
+2025-08-14,Laptop Stand,Office,8,36.02,288.16,North
+2025-08-14,Wireless Mouse,Electronics,17,29.68,504.56,West
+2025-08-14,Screen Protector,Accessories,42,9.26,388.92,North
+2025-08-14,Power Bank,Electronics,19,36.81,699.39,North
+2025-08-14,Desk Lamp,Office,11,23.63,259.93,North
+2025-08-14,Keyboard,Electronics,5,76.79,383.95,South
+2025-08-15,Phone Case,Accessories,16,21.44,343.04,West
+2025-08-15,Bluetooth Speaker,Electronics,6,51.4,308.4,South
+2025-08-15,Screen Protector,Accessories,41,9.35,383.35,East
+2025-08-15,Power Bank,Electronics,24,32.31,775.44,East
+2025-08-15,Desk Lamp,Office,9,25.96,233.64,South
+2025-08-15,Webcam,Electronics,2,61.7,123.4,South
+2025-08-15,Keyboard,Electronics,7,76.46,535.22,West
+2025-08-16,Wireless Headphones,Electronics,27,76.03,2052.81,South
+2025-08-16,Phone Case,Accessories,23,18.05,415.15,North
+2025-08-16,Bluetooth Speaker,Electronics,8,53.72,429.76,East
+2025-08-16,Wireless Mouse,Electronics,23,32.73,752.79,North
+2025-08-16,Power Bank,Electronics,25,36.53,913.25,East
+2025-08-16,Webcam,Electronics,2,56.17,112.34,West
+2025-08-16,Notebook Set,Office,53,14.05,744.65,West
+2025-08-17,Wireless Headphones,Electronics,19,74.71,1419.49,South
+2025-08-17,Phone Case,Accessories,24,19.11,458.64,West
+2025-08-17,Bluetooth Speaker,Electronics,6,50.95,305.7,West
+2025-08-17,Screen Protector,Accessories,54,10.37,559.98,South
+2025-08-17,Desk Lamp,Office,21,24.78,520.38,West
+2025-08-17,Webcam,Electronics,3,55.87,167.61,South
+2025-08-17,Keyboard,Electronics,4,69.21,276.84,East
+2025-08-17,Notebook Set,Office,42,16.22,681.24,North
+2025-08-18,Wireless Headphones,Electronics,23,80.65,1854.95,South
+2025-08-18,USB-C Cable,Accessories,34,13.97,474.98,East
+2025-08-18,Bluetooth Speaker,Electronics,15,51.58,773.7,South
+2025-08-18,Laptop Stand,Office,15,38.98,584.7,South
+2025-08-18,Screen Protector,Accessories,26,10.29,267.54,South
+2025-08-18,Power Bank,Electronics,21,31.96,671.16,East
+2025-08-18,Desk Lamp,Office,19,23.34,443.46,West
+2025-08-18,Webcam,Electronics,5,59.81,299.05,South
+2025-08-18,Keyboard,Electronics,12,69.26,831.12,North
+2025-08-18,Notebook Set,Office,33,14.35,473.55,North
+2025-08-19,Wireless Headphones,Electronics,10,82.83,828.3,North
+2025-08-19,Phone Case,Accessories,16,19.07,305.12,East
+2025-08-19,USB-C Cable,Accessories,25,12.9,322.5,South
+2025-08-19,Bluetooth Speaker,Electronics,15,50.12,751.8,East
+2025-08-19,Laptop Stand,Office,6,39.21,235.26,West
+2025-08-19,Wireless Mouse,Electronics,20,30.17,603.4,South
+2025-08-19,Screen Protector,Accessories,51,9.83,501.33,East
+2025-08-19,Power Bank,Electronics,11,34.65,381.15,South
+2025-08-19,Desk Lamp,Office,11,25.69,282.59,West
+2025-08-19,Webcam,Electronics,5,65.91,329.55,North
+2025-08-19,Notebook Set,Office,54,13.78,744.12,North
+2025-08-20,Phone Case,Accessories,20,20.0,400.0,West
+2025-08-20,Bluetooth Speaker,Electronics,9,53.61,482.49,North
+2025-08-20,Laptop Stand,Office,14,37.76,528.64,North
+2025-08-20,Wireless Mouse,Electronics,15,31.84,477.6,West
+2025-08-20,Screen Protector,Accessories,49,10.2,499.8,West
+2025-08-20,Power Bank,Electronics,13,33.35,433.55,South
+2025-08-20,Desk Lamp,Office,14,22.95,321.3,East
+2025-08-20,Notebook Set,Office,27,15.24,411.48,South
+2025-08-21,Wireless Headphones,Electronics,19,75.25,1429.75,North
+2025-08-21,Phone Case,Accessories,28,19.64,549.92,North
+2025-08-21,USB-C Cable,Accessories,37,13.14,486.18,East
+2025-08-21,Wireless Mouse,Electronics,28,27.81,778.68,South
+2025-08-21,Desk Lamp,Office,9,26.04,234.36,South
+2025-08-21,Notebook Set,Office,25,15.31,382.75,South
+2025-08-22,Wireless Headphones,Electronics,15,73.38,1100.7,North
+2025-08-22,USB-C Cable,Accessories,40,12.38,495.2,North
+2025-08-22,Bluetooth Speaker,Electronics,13,54.62,710.06,East
+2025-08-22,Laptop Stand,Office,12,43.41,520.92,West
+2025-08-22,Wireless Mouse,Electronics,14,28.57,399.98,South
+2025-08-22,Screen Protector,Accessories,45,9.13,410.85,East
+2025-08-22,Power Bank,Electronics,14,36.14,505.96,South
+2025-08-22,Desk Lamp,Office,20,25.12,502.4,East
+2025-08-22,Webcam,Electronics,3,57.75,173.25,East
+2025-08-22,Notebook Set,Office,51,15.66,798.66,South
+2025-08-23,Phone Case,Accessories,23,18.7,430.1,East
+2025-08-23,Bluetooth Speaker,Electronics,10,54.81,548.1,South
+2025-08-23,Screen Protector,Accessories,49,9.83,481.67,South
+2025-08-23,Desk Lamp,Office,15,23.24,348.6,North
+2025-08-23,Notebook Set,Office,26,14.24,370.24,North
+2025-08-24,Wireless Headphones,Electronics,25,75.68,1892.0,South
+2025-08-24,USB-C Cable,Accessories,18,13.44,241.92,South
+2025-08-24,Bluetooth Speaker,Electronics,7,53.03,371.21,East
+2025-08-24,Wireless Mouse,Electronics,13,28.52,370.76,North
+2025-08-24,Screen Protector,Accessories,41,10.88,446.08,North
+2025-08-24,Power Bank,Electronics,13,36.9,479.7,South
+2025-08-24,Webcam,Electronics,3,61.9,185.7,East
+2025-08-24,Keyboard,Electronics,8,73.24,585.92,North
+2025-08-24,Notebook Set,Office,52,13.66,710.32,North
+2025-08-25,Wireless Headphones,Electronics,17,78.45,1333.65,North
+2025-08-25,Phone Case,Accessories,18,19.9,358.2,East
+2025-08-25,Bluetooth Speaker,Electronics,17,51.86,881.62,West
+2025-08-25,Laptop Stand,Office,15,36.31,544.65,North
+2025-08-25,Screen Protector,Accessories,60,9.68,580.8,East
+2025-08-25,Power Bank,Electronics,19,33.99,645.81,East
+2025-08-25,Desk Lamp,Office,8,27.45,219.6,North
+2025-08-25,Keyboard,Electronics,7,72.09,504.63,South
+2025-08-25,Notebook Set,Office,28,14.52,406.56,South
+2025-08-26,Wireless Headphones,Electronics,18,87.09,1567.62,North
+2025-08-26,Phone Case,Accessories,32,21.67,693.44,North
+2025-08-26,USB-C Cable,Accessories,47,12.32,579.04,West
+2025-08-26,Laptop Stand,Office,17,41.25,701.25,South
+2025-08-26,Screen Protector,Accessories,43,9.05,389.15,East
+2025-08-26,Power Bank,Electronics,11,32.99,362.89,North
+2025-08-26,Desk Lamp,Office,16,25.02,400.32,West
+2025-08-26,Webcam,Electronics,4,54.14,216.56,East
+2025-08-26,Keyboard,Electronics,9,72.08,648.72,South
+2025-08-26,Notebook Set,Office,23,15.5,356.5,North
+2025-08-27,Wireless Headphones,Electronics,11,73.51,808.61,South
+2025-08-27,Phone Case,Accessories,21,20.33,426.93,South
+2025-08-27,Bluetooth Speaker,Electronics,15,51.89,778.35,East
+2025-08-27,Laptop Stand,Office,9,36.79,331.11,North
+2025-08-27,Wireless Mouse,Electronics,29,29.95,868.55,North
+2025-08-27,Power Bank,Electronics,19,32.02,608.38,West
+2025-08-27,Desk Lamp,Office,21,26.39,554.19,East
+2025-08-27,Webcam,Electronics,4,61.65,246.6,East
+2025-08-27,Keyboard,Electronics,13,73.24,952.12,East
+2025-08-27,Notebook Set,Office,26,13.74,357.24,South
+2025-08-28,Wireless Headphones,Electronics,24,79.09,1898.16,East
+2025-08-28,Phone Case,Accessories,16,20.45,327.2,West
+2025-08-28,Bluetooth Speaker,Electronics,13,46.63,606.19,North
+2025-08-28,Laptop Stand,Office,10,37.81,378.1,North
+2025-08-28,Wireless Mouse,Electronics,22,30.85,678.7,North
+2025-08-28,Screen Protector,Accessories,40,9.62,384.8,South
+2025-08-28,Power Bank,Electronics,24,37.99,911.76,South
+2025-08-28,Desk Lamp,Office,19,27.14,515.66,North
+2025-08-28,Webcam,Electronics,2,63.88,127.76,North
+2025-08-28,Keyboard,Electronics,7,67.51,472.57,East
+2025-08-28,Notebook Set,Office,41,16.05,658.05,North
+2025-08-29,Wireless Headphones,Electronics,17,72.18,1227.06,East
+2025-08-29,Phone Case,Accessories,32,20.93,669.76,East
+2025-08-29,Laptop Stand,Office,9,36.63,329.67,South
+2025-08-29,Wireless Mouse,Electronics,16,31.31,500.96,East
+2025-08-29,Screen Protector,Accessories,56,10.29,576.24,East
+2025-08-29,Power Bank,Electronics,9,36.37,327.33,South
+2025-08-29,Desk Lamp,Office,19,25.43,483.17,North
+2025-08-29,Keyboard,Electronics,8,67.14,537.12,South
+2025-08-30,Wireless Headphones,Electronics,11,86.9,955.9,West
+2025-08-30,Phone Case,Accessories,36,19.73,710.28,East
+2025-08-30,USB-C Cable,Accessories,28,13.19,369.32,South
+2025-08-30,Bluetooth Speaker,Electronics,9,48.66,437.94,North
+2025-08-30,Desk Lamp,Office,8,25.78,206.24,North
+2025-08-30,Webcam,Electronics,3,57.66,172.98,South
+2025-08-30,Keyboard,Electronics,9,64.59,581.31,West
+2025-08-30,Notebook Set,Office,31,15.62,484.22,South
+2025-08-31,Wireless Headphones,Electronics,17,83.5,1419.5,North
+2025-08-31,Phone Case,Accessories,37,18.84,697.08,North
+2025-08-31,USB-C Cable,Accessories,51,12.36,630.36,South
+2025-08-31,Laptop Stand,Office,12,43.61,523.32,South
+2025-08-31,Wireless Mouse,Electronics,20,27.24,544.8,South
+2025-08-31,Screen Protector,Accessories,65,10.71,696.15,North
+2025-08-31,Webcam,Electronics,4,63.29,253.16,South
+2025-08-31,Keyboard,Electronics,8,66.54,532.32,South
+2025-09-01,Phone Case,Accessories,37,19.68,728.16,South
+2025-09-01,USB-C Cable,Accessories,43,13.73,590.39,East
+2025-09-01,Bluetooth Speaker,Electronics,8,48.37,386.96,South
+2025-09-01,Laptop Stand,Office,15,38.63,579.45,North
+2025-09-01,Wireless Mouse,Electronics,29,28.35,822.15,East
+2025-09-01,Screen Protector,Accessories,25,9.97,249.25,East
+2025-09-01,Power Bank,Electronics,24,33.51,804.24,North
+2025-09-01,Desk Lamp,Office,13,25.37,329.81,East
+2025-09-01,Webcam,Electronics,4,55.62,222.48,North
+2025-09-01,Notebook Set,Office,27,15.64,422.28,West
+2025-09-02,Wireless Headphones,Electronics,19,79.37,1508.03,South
+2025-09-02,Phone Case,Accessories,33,21.93,723.69,West
+2025-09-02,USB-C Cable,Accessories,48,12.91,619.68,East
+2025-09-02,Bluetooth Speaker,Electronics,10,54.61,546.1,South
+2025-09-02,Laptop Stand,Office,14,43.59,610.26,North
+2025-09-02,Wireless Mouse,Electronics,20,28.6,572.0,East
+2025-09-02,Screen Protector,Accessories,52,9.64,501.28,South
+2025-09-02,Power Bank,Electronics,16,32.88,526.08,West
+2025-09-02,Desk Lamp,Office,18,24.55,441.9,South
+2025-09-02,Webcam,Electronics,3,60.52,181.56,South
+2025-09-02,Keyboard,Electronics,5,69.94,349.7,North
+2025-09-03,Wireless Headphones,Electronics,20,82.54,1650.8,South
+2025-09-03,Phone Case,Accessories,34,21.07,716.38,South
+2025-09-03,USB-C Cable,Accessories,46,13.91,639.86,North
+2025-09-03,Screen Protector,Accessories,23,9.14,210.22,North
+2025-09-03,Webcam,Electronics,3,54.06,162.18,South
+2025-09-03,Keyboard,Electronics,5,72.46,362.3,East
+2025-09-03,Notebook Set,Office,46,13.49,620.54,West
+2025-09-04,Wireless Headphones,Electronics,26,72.24,1878.24,West
+2025-09-04,Phone Case,Accessories,40,18.36,734.4,East
+2025-09-04,USB-C Cable,Accessories,41,13.17,539.97,West
+2025-09-04,Bluetooth Speaker,Electronics,13,49.75,646.75,West
+2025-09-04,Wireless Mouse,Electronics,23,31.74,730.02,East
+2025-09-04,Screen Protector,Accessories,64,9.12,583.68,South
+2025-09-04,Desk Lamp,Office,15,27.04,405.6,West
+2025-09-04,Notebook Set,Office,38,14.29,543.02,West
+2025-09-05,Wireless Headphones,Electronics,16,86.23,1379.68,South
+2025-09-05,Phone Case,Accessories,29,18.48,535.92,West
+2025-09-05,USB-C Cable,Accessories,43,12.64,543.52,North
+2025-09-05,Laptop Stand,Office,14,38.67,541.38,East
+2025-09-05,Wireless Mouse,Electronics,24,29.95,718.8,West
+2025-09-05,Screen Protector,Accessories,42,9.39,394.38,South
+2025-09-05,Desk Lamp,Office,11,24.01,264.11,East
+2025-09-05,Webcam,Electronics,2,56.02,112.04,East
+2025-09-05,Notebook Set,Office,37,15.55,575.35,East
+2025-09-06,Wireless Headphones,Electronics,10,76.73,767.3,North
+2025-09-06,Bluetooth Speaker,Electronics,12,51.63,619.56,South
+2025-09-06,Laptop Stand,Office,10,38.31,383.1,South
+2025-09-06,Power Bank,Electronics,25,36.54,913.5,North
+2025-09-06,Desk Lamp,Office,18,25.54,459.72,West
+2025-09-06,Webcam,Electronics,2,60.13,120.26,South
+2025-09-06,Keyboard,Electronics,9,76.27,686.43,West
+2025-09-06,Notebook Set,Office,48,16.32,783.36,North
+2025-09-07,Phone Case,Accessories,40,20.01,800.4,East
+2025-09-07,Laptop Stand,Office,7,38.8,271.6,North
+2025-09-07,Wireless Mouse,Electronics,24,29.2,700.8,East
+2025-09-07,Power Bank,Electronics,15,36.03,540.45,East
+2025-09-07,Webcam,Electronics,3,59.13,177.39,North
+2025-09-07,Keyboard,Electronics,11,65.9,724.9,South
+2025-09-07,Notebook Set,Office,44,15.79,694.76,South
+2025-09-08,Wireless Headphones,Electronics,16,75.37,1205.92,East
+2025-09-08,Phone Case,Accessories,24,19.83,475.92,East
+2025-09-08,USB-C Cable,Accessories,47,13.67,642.49,North
+2025-09-08,Bluetooth Speaker,Electronics,15,53.63,804.45,East
+2025-09-08,Laptop Stand,Office,7,38.77,271.39,West
+2025-09-08,Power Bank,Electronics,24,32.63,783.12,West
+2025-09-08,Desk Lamp,Office,15,26.64,399.6,South
+2025-09-08,Notebook Set,Office,38,15.91,604.58,East
+2025-09-09,Wireless Headphones,Electronics,24,75.06,1801.44,North
+2025-09-09,Phone Case,Accessories,17,18.98,322.66,East
+2025-09-09,USB-C Cable,Accessories,48,12.47,598.56,North
+2025-09-09,Bluetooth Speaker,Electronics,12,48.75,585.0,South
+2025-09-09,Laptop Stand,Office,16,38.12,609.92,South
+2025-09-09,Wireless Mouse,Electronics,28,32.98,923.44,North
+2025-09-09,Screen Protector,Accessories,39,9.01,351.39,North
+2025-09-09,Power Bank,Electronics,17,31.65,538.05,East
+2025-09-09,Webcam,Electronics,2,56.0,112.0,South
+2025-09-09,Notebook Set,Office,26,15.02,390.52,North
+2025-09-10,Wireless Headphones,Electronics,23,73.76,1696.48,South
+2025-09-10,USB-C Cable,Accessories,26,13.06,339.56,South
+2025-09-10,Bluetooth Speaker,Electronics,12,50.82,609.84,South
+2025-09-10,Laptop Stand,Office,15,38.27,574.05,West
+2025-09-10,Wireless Mouse,Electronics,26,31.93,830.18,North
+2025-09-10,Screen Protector,Accessories,35,9.59,335.65,North
+2025-09-10,Power Bank,Electronics,13,31.5,409.5,East
+2025-09-10,Notebook Set,Office,36,13.62,490.32,West
+2025-09-11,Wireless Headphones,Electronics,15,77.09,1156.35,South
+2025-09-11,Phone Case,Accessories,19,18.75,356.25,West
+2025-09-11,Bluetooth Speaker,Electronics,16,51.62,825.92,South
+2025-09-11,Laptop Stand,Office,6,41.87,251.22,South
+2025-09-11,Wireless Mouse,Electronics,29,32.54,943.66,West
+2025-09-11,Screen Protector,Accessories,38,9.92,376.96,East
+2025-09-11,Power Bank,Electronics,12,37.92,455.04,West
+2025-09-11,Desk Lamp,Office,20,23.89,477.8,North
+2025-09-11,Notebook Set,Office,48,16.19,777.12,East
+2025-09-12,Bluetooth Speaker,Electronics,12,45.42,545.04,South
+2025-09-12,Wireless Mouse,Electronics,19,29.96,569.24,South
+2025-09-12,Screen Protector,Accessories,32,10.02,320.64,East
+2025-09-12,Power Bank,Electronics,25,34.14,853.5,South
+2025-09-12,Webcam,Electronics,2,55.91,111.82,South
+2025-09-12,Keyboard,Electronics,5,72.76,363.8,East
+2025-09-13,Wireless Headphones,Electronics,22,80.46,1770.12,South
+2025-09-13,Phone Case,Accessories,33,21.75,717.75,East
+2025-09-13,Bluetooth Speaker,Electronics,16,45.94,735.04,West
+2025-09-13,Laptop Stand,Office,6,43.46,260.76,South
+2025-09-13,Wireless Mouse,Electronics,18,29.64,533.52,East
+2025-09-13,Screen Protector,Accessories,24,10.18,244.32,North
+2025-09-13,Power Bank,Electronics,15,34.77,521.55,South
+2025-09-13,Notebook Set,Office,54,13.84,747.36,West
+2025-09-14,Wireless Headphones,Electronics,21,82.31,1728.51,West
+2025-09-14,USB-C Cable,Accessories,41,13.22,542.02,West
+2025-09-14,Laptop Stand,Office,12,39.02,468.24,South
+2025-09-14,Wireless Mouse,Electronics,27,29.97,809.19,West
+2025-09-14,Screen Protector,Accessories,27,9.11,245.97,North
+2025-09-14,Power Bank,Electronics,15,36.52,547.8,East
+2025-09-14,Notebook Set,Office,24,13.89,333.36,West
+2025-09-15,Wireless Headphones,Electronics,12,78.5,942.0,South
+2025-09-15,Phone Case,Accessories,30,18.5,555.0,East
+2025-09-15,USB-C Cable,Accessories,26,12.67,329.42,South
+2025-09-15,Bluetooth Speaker,Electronics,8,48.98,391.84,North
+2025-09-15,Laptop Stand,Office,8,36.34,290.72,East
+2025-09-15,Wireless Mouse,Electronics,26,29.95,778.7,North
+2025-09-15,Screen Protector,Accessories,53,9.48,502.44,West
+2025-09-15,Desk Lamp,Office,20,25.93,518.6,West
+2025-09-15,Webcam,Electronics,2,59.3,118.6,North
+2025-09-15,Keyboard,Electronics,11,68.4,752.4,South
+2025-09-15,Notebook Set,Office,51,13.63,695.13,South
+2025-09-16,Phone Case,Accessories,18,20.65,371.7,North
+2025-09-16,Bluetooth Speaker,Electronics,6,49.37,296.22,North
+2025-09-16,Laptop Stand,Office,12,38.56,462.72,North
+2025-09-16,Wireless Mouse,Electronics,23,31.68,728.64,South
+2025-09-16,Screen Protector,Accessories,31,9.57,296.67,North
+2025-09-16,Webcam,Electronics,3,65.33,195.99,North
+2025-09-16,Keyboard,Electronics,11,70.83,779.13,North
+2025-09-17,Phone Case,Accessories,37,18.18,672.66,North
+2025-09-17,USB-C Cable,Accessories,44,12.87,566.28,East
+2025-09-17,Bluetooth Speaker,Electronics,7,48.97,342.79,East
+2025-09-17,Laptop Stand,Office,6,40.05,240.3,South
+2025-09-17,Wireless Mouse,Electronics,10,28.87,288.7,West
+2025-09-17,Screen Protector,Accessories,42,9.56,401.52,North
+2025-09-17,Power Bank,Electronics,24,38.26,918.24,South
+2025-09-17,Desk Lamp,Office,20,24.62,492.4,East
+2025-09-17,Keyboard,Electronics,9,74.32,668.88,East
+2025-09-18,Wireless Headphones,Electronics,24,77.53,1860.72,North
+2025-09-18,USB-C Cable,Accessories,29,13.13,380.77,North
+2025-09-18,Bluetooth Speaker,Electronics,9,47.25,425.25,South
+2025-09-18,Laptop Stand,Office,8,38.17,305.36,North
+2025-09-18,Wireless Mouse,Electronics,25,29.76,744.0,East
+2025-09-18,Screen Protector,Accessories,28,10.92,305.76,West
+2025-09-18,Notebook Set,Office,36,15.84,570.24,East
+2025-09-19,Wireless Headphones,Electronics,22,72.28,1590.16,South
+2025-09-19,Phone Case,Accessories,15,18.12,271.8,West
+2025-09-19,USB-C Cable,Accessories,26,13.48,350.48,East
+2025-09-19,Bluetooth Speaker,Electronics,6,54.32,325.92,South
+2025-09-19,Wireless Mouse,Electronics,25,28.32,708.0,North
+2025-09-19,Power Bank,Electronics,12,35.52,426.24,West
+2025-09-19,Webcam,Electronics,4,64.6,258.4,North
+2025-09-19,Keyboard,Electronics,11,76.79,844.69,North
+2025-09-19,Notebook Set,Office,31,14.02,434.62,South
+2025-09-20,Wireless Headphones,Electronics,18,80.59,1450.62,West
+2025-09-20,Phone Case,Accessories,33,19.45,641.85,South
+2025-09-20,USB-C Cable,Accessories,49,13.1,641.9,East
+2025-09-20,Wireless Mouse,Electronics,10,28.51,285.1,South
+2025-09-20,Desk Lamp,Office,16,27.12,433.92,East
+2025-09-20,Webcam,Electronics,4,63.41,253.64,North
+2025-09-20,Notebook Set,Office,39,15.86,618.54,East
+2025-09-21,Wireless Headphones,Electronics,28,80.53,2254.84,North
+2025-09-21,Phone Case,Accessories,22,21.1,464.2,West
+2025-09-21,USB-C Cable,Accessories,38,12.89,489.82,South
+2025-09-21,Bluetooth Speaker,Electronics,13,52.5,682.5,East
+2025-09-21,Wireless Mouse,Electronics,25,29.84,746.0,South
+2025-09-21,Screen Protector,Accessories,52,9.81,510.12,West
+2025-09-21,Desk Lamp,Office,9,22.57,203.13,West
+2025-09-21,Keyboard,Electronics,11,75.02,825.22,West
+2025-09-22,Wireless Headphones,Electronics,11,78.5,863.5,West
+2025-09-22,Phone Case,Accessories,32,20.01,640.32,East
+2025-09-22,USB-C Cable,Accessories,19,13.18,250.42,West
+2025-09-22,Bluetooth Speaker,Electronics,6,50.6,303.6,South
+2025-09-22,Wireless Mouse,Electronics,20,32.59,651.8,West
+2025-09-22,Screen Protector,Accessories,22,9.85,216.7,North
+2025-09-22,Power Bank,Electronics,12,33.49,401.88,South
+2025-09-22,Keyboard,Electronics,5,63.81,319.05,South
+2025-09-22,Notebook Set,Office,39,14.76,575.64,East
+2025-09-23,Wireless Headphones,Electronics,27,72.87,1967.49,East
+2025-09-23,Phone Case,Accessories,39,18.73,730.47,North
+2025-09-23,USB-C Cable,Accessories,20,13.8,276.0,East
+2025-09-23,Bluetooth Speaker,Electronics,7,52.17,365.19,East
+2025-09-23,Laptop Stand,Office,6,36.18,217.08,South
+2025-09-23,Screen Protector,Accessories,63,9.77,615.51,West
+2025-09-23,Keyboard,Electronics,12,64.35,772.2,East
+2025-09-23,Notebook Set,Office,53,13.86,734.58,North
+2025-09-24,Phone Case,Accessories,23,21.47,493.81,East
+2025-09-24,USB-C Cable,Accessories,35,11.93,417.55,South
+2025-09-24,Bluetooth Speaker,Electronics,16,53.92,862.72,West
+2025-09-24,Power Bank,Electronics,10,34.8,348.0,East
+2025-09-24,Desk Lamp,Office,18,27.18,489.24,North
+2025-09-24,Keyboard,Electronics,7,66.54,465.78,South
+2025-09-25,Wireless Headphones,Electronics,17,80.19,1363.23,East
+2025-09-25,Phone Case,Accessories,22,18.66,410.52,South
+2025-09-25,USB-C Cable,Accessories,43,13.42,577.06,North
+2025-09-25,Bluetooth Speaker,Electronics,12,49.83,597.96,South
+2025-09-25,Laptop Stand,Office,12,41.71,500.52,North
+2025-09-25,Wireless Mouse,Electronics,12,27.39,328.68,West
+2025-09-25,Screen Protector,Accessories,25,9.88,247.0,North
+2025-09-25,Power Bank,Electronics,23,38.14,877.22,East
+2025-09-25,Desk Lamp,Office,16,24.05,384.8,West
+2025-09-25,Webcam,Electronics,3,57.89,173.67,North
+2025-09-25,Notebook Set,Office,35,14.47,506.45,South
+2025-09-26,Wireless Headphones,Electronics,11,85.71,942.81,West
+2025-09-26,Phone Case,Accessories,26,18.86,490.36,South
+2025-09-26,USB-C Cable,Accessories,23,13.27,305.21,South
+2025-09-26,Bluetooth Speaker,Electronics,6,51.43,308.58,East
+2025-09-26,Laptop Stand,Office,16,41.82,669.12,West
+2025-09-26,Wireless Mouse,Electronics,20,27.08,541.6,North
+2025-09-26,Notebook Set,Office,19,15.7,298.3,North
+2025-09-27,Wireless Headphones,Electronics,26,82.45,2143.7,East
+2025-09-27,USB-C Cable,Accessories,47,14.02,658.94,East
+2025-09-27,Bluetooth Speaker,Electronics,16,47.91,766.56,East
+2025-09-27,Wireless Mouse,Electronics,12,28.34,340.08,East
+2025-09-27,Screen Protector,Accessories,50,9.45,472.5,North
+2025-09-27,Power Bank,Electronics,26,37.16,966.16,South
+2025-09-27,Desk Lamp,Office,13,25.11,326.43,South
+2025-09-27,Webcam,Electronics,4,60.31,241.24,South
