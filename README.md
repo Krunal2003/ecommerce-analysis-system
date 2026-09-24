@@ -42,6 +42,7 @@ ecommerce-analysis-system/
 │       ├── App.js              # Main app with sidebar, chat UI, upload
 │       ├── App.css             # Full design system (dark + light themes)
 │       └── index.css           # Base styles
+├── .env.example                # Environment variables template
 ├── Dockerfile                  # Backend container
 ├── docker-compose.yml          # Full-stack orchestration
 ├── requirements.txt            # Python dependencies
@@ -70,18 +71,30 @@ git clone https://github.com/Krunal2003/ecommerce-analysis-system.git
 cd ecommerce-analysis-system
 ```
 
-### 2. Backend setup
+### 2. Set up environment variables
+
+```bash
+cp .env.example .env
+```
+
+Open `.env` and add your Groq API key:
+
+```env
+GROQ_API_KEY=your_groq_api_key_here
+```
+
+> **How to get a free Groq API key:**
+> 1. Go to [console.groq.com](https://console.groq.com/)
+> 2. Sign up for a free account
+> 3. Navigate to **API Keys** in the sidebar
+> 4. Click **Create API Key** and copy it
+
+### 3. Backend setup
 
 ```bash
 python -m venv venv
 source venv/bin/activate        # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-```
-
-Create a `.env` file:
-
-```env
-GROQ_API_KEY=your_groq_api_key_here
 ```
 
 Start the backend:
@@ -90,7 +103,9 @@ Start the backend:
 python -m uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
 ```
 
-### 3. Frontend setup
+### 4. Frontend setup
+
+Open a new terminal:
 
 ```bash
 cd frontend
@@ -100,10 +115,21 @@ npm start
 
 The app opens at **http://localhost:3000**.
 
+### 5. Try it out
+
+1. Open http://localhost:3000 in your browser
+2. Upload the included `test_data.csv` (sample e-commerce data)
+3. Ask questions like:
+   - "What are the top 5 products by revenue?"
+   - "Which region is performing best?"
+   - "What should I focus on this quarter?"
+
 ### Docker (alternative)
 
 ```bash
-GROQ_API_KEY=your_key docker-compose up --build
+cp .env.example .env
+# Edit .env and add your GROQ_API_KEY
+docker-compose up --build
 ```
 
 Backend at `localhost:8000`, frontend at `localhost:3000`.
